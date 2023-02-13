@@ -2,10 +2,19 @@
 import pandas as pd
 import streamlit as st
 import csv
+from datetime import datetime, timedelta, date
 
+
+start_time = datetime.now()
+start_time = start_time.strftime("%Y-%m-%d %H:%M:%S")
 # read a CSV file inside the 'data" folder next to 'app.py'
 df = pd.read_csv("All Leagues 2023-02-11.csv")
 # df = pd.read_excel(...)  # will work for Excel files
+
+df["date_time"] = df['date'].astype(
+    str) + " " + df["time"]
+
+df = df[(df['date_time'] >= start_time)]
 
 st.title("Football Probabilities")  # add a title
 st.write(df)  # visualize my dataframe in the Streamlit app
@@ -27,4 +36,5 @@ st.download_button(
 # leagues = df['League'].unique()
 
 # league = st.selectbox('Filter League', leagues)
+
 # df[df['League'] == league]
