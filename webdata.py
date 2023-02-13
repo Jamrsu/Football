@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, date
 start_time = datetime.now()
 start_time = start_time.strftime("%Y-%m-%d %H:%M:%S")
 # read a CSV file inside the 'data" folder next to 'app.py'
-df = pd.read_csv("All Leagues 2023-02-11.csv")
+df = pd.read_csv("All Leagues.csv")
 # df = pd.read_excel(...)  # will work for Excel files
 
 df["date_time"] = df['date'].astype(
