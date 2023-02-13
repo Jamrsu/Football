@@ -15,7 +15,7 @@ df["date_time"] = df['date'].astype(
     str) + " " + df["time"]
 
 df = df[(df['date_time'] >= start_time)]
-df.drop(['date_time'], axis=1)
+df = df.drop(['date_time'], axis=1)
 
 st.title("Football Probabilities")  # add a title
 st.write(df)  # visualize my dataframe in the Streamlit app
