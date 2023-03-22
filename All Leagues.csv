@@ -1,220 +1,62 @@
 League,day,date,time,home,away,Home xG,Away xG,Home Win,Draw,Away Win,Over 1.5,Over 2.5,BTTS
-ENG Premier League,Wed,2023-03-15,19:30,Southampton,Brentford,0.927,1.528,0.231,0.254,0.515,0.701,0.445,0.471
-ENG Premier League,Wed,2023-03-15,19:30,Brighton,Crystal Palace,1.972,0.667,0.684,0.198,0.118,0.738,0.491,0.417
-ENG Premier League,Fri,2023-03-17,20:00,Nott'ham Forest,Newcastle Utd,0.494,1.549,0.117,0.246,0.636,0.604,0.335,0.305
-ENG Premier League,Sat,2023-03-18,15:00,Liverpool,Fulham,2.142,1.018,0.632,0.196,0.171,0.822,0.612,0.562
-ENG Premier League,Sat,2023-03-18,15:00,Wolves,Leeds United,1.082,0.973,0.379,0.299,0.322,0.606,0.338,0.409
-ENG Premier League,Sat,2023-03-18,15:00,Brentford,Leicester City,2.43,1.213,0.643,0.18,0.177,0.877,0.705,0.64
-ENG Premier League,Sat,2023-03-18,15:00,Aston Villa,Bournemouth,2.02,0.925,0.629,0.204,0.166,0.791,0.564,0.522
-ENG Premier League,Sat,2023-03-18,15:00,Southampton,Tottenham,0.943,1.77,0.2,0.229,0.57,0.752,0.51,0.505
-ENG Premier League,Sat,2023-03-18,17:30,Chelsea,Everton,1.237,0.447,0.564,0.3,0.136,0.5,0.239,0.254
-ENG Premier League,Sun,2023-03-19,14:00,Brighton,Manchester Utd,2.119,1.265,0.571,0.204,0.225,0.85,0.657,0.63
-ENG Premier League,Sun,2023-03-19,14:00,Arsenal,Crystal Palace,2.38,0.484,0.799,0.142,0.059,0.779,0.546,0.347
-ENG Premier League,Sun,2023-03-19,16:30,Manchester City,West Ham,2.865,0.547,0.846,0.107,0.047,0.854,0.663,0.397
-ENG Championship,Tue,2023-03-14,19:45,Rotherham Utd,Preston,1.061,0.901,0.391,0.303,0.306,0.58,0.313,0.384
-ENG Championship,Tue,2023-03-14,19:45,Watford,Birmingham City,1.357,0.895,0.479,0.27,0.251,0.654,0.391,0.435
-ENG Championship,Tue,2023-03-14,19:45,Blackpool,QPR,1.204,1.094,0.39,0.275,0.335,0.665,0.404,0.462
-ENG Championship,Tue,2023-03-14,19:45,Millwall,Swansea City,1.764,1.036,0.548,0.228,0.225,0.766,0.531,0.531
-ENG Championship,Tue,2023-03-14,19:45,Wigan Athletic,Coventry City,0.779,1.377,0.216,0.27,0.514,0.631,0.365,0.401
-ENG Championship,Tue,2023-03-14,20:00,Middlesbrough,Stoke City,1.952,1.146,0.564,0.213,0.223,0.812,0.599,0.582
-ENG Championship,Wed,2023-03-15,19:45,Hull City,Burnley,0.84,2.03,0.149,0.197,0.654,0.778,0.547,0.491
-ENG Championship,Wed,2023-03-15,19:45,Cardiff City,West Brom,0.725,1.057,0.251,0.316,0.432,0.528,0.265,0.333
-ENG Championship,Wed,2023-03-15,19:45,Blackburn,Reading,1.542,0.908,0.525,0.249,0.225,0.699,0.443,0.465
-ENG Championship,Wed,2023-03-15,19:45,Huddersfield,Norwich City,0.862,1.542,0.214,0.25,0.537,0.689,0.431,0.45
-ENG Championship,Wed,2023-03-15,19:45,Luton Town,Bristol City,1.371,0.881,0.486,0.268,0.245,0.654,0.391,0.433
-ENG Championship,Wed,2023-03-15,20:00,Sunderland,Sheffield Utd,1.145,1.375,0.316,0.259,0.425,0.713,0.461,0.505
-ENG Championship,Sat,2023-03-18,15:00,Sunderland,Luton Town,1.204,1.091,0.39,0.275,0.334,0.664,0.403,0.461
-ENG Championship,Sat,2023-03-18,15:00,Millwall,Huddersfield,1.696,0.641,0.632,0.228,0.14,0.674,0.414,0.383
-ENG Championship,Sat,2023-03-18,15:00,Reading,Hull City,1.356,1.278,0.391,0.254,0.355,0.735,0.49,0.532
-ENG Championship,Sat,2023-03-18,15:00,Blackpool,Coventry City,0.813,1.252,0.245,0.285,0.47,0.607,0.341,0.393
-ENG Championship,Sat,2023-03-18,15:00,Stoke City,Norwich City,1.352,1.306,0.384,0.253,0.363,0.74,0.496,0.537
-ENG Championship,Sat,2023-03-18,15:00,Middlesbrough,Preston,1.695,0.773,0.597,0.231,0.172,0.703,0.448,0.436
-ENG Championship,Sat,2023-03-18,15:00,QPR,Birmingham City,1.221,1.222,0.367,0.266,0.367,0.697,0.441,0.493
-ENG Championship,Sat,2023-03-18,15:00,Watford,Wigan Athletic,1.621,0.697,0.6,0.239,0.162,0.67,0.409,0.399
-ENG Championship,Sat,2023-03-18,15:00,Rotherham Utd,Cardiff City,1.112,0.761,0.441,0.306,0.253,0.555,0.289,0.354
-ENG Championship,Sun,2023-03-19,12:30,Swansea City,Bristol City,1.521,1.39,0.409,0.24,0.351,0.784,0.557,0.583
-ENG League 1,Tue,2023-03-14,19:45,Acc'ton Stanley,Portsmouth,0.87,1.45,0.221,0.277,0.502,0.679,0.409,0.45
-ENG League 1,Tue,2023-03-14,19:45,Morecambe,Charlton Ath,1.133,1.526,0.277,0.264,0.458,0.748,0.496,0.535
-ENG League 1,Tue,2023-03-14,19:45,Burton Albion,P'borough Utd,1.431,2.096,0.258,0.217,0.525,0.87,0.684,0.671
-ENG League 1,Tue,2023-03-14,19:45,Bristol Rovers,Wycombe,1.186,1.621,0.275,0.255,0.47,0.775,0.532,0.562
-ENG League 1,Fri,2023-03-17,19:45,Sheffield Weds,Bolton,1.267,0.63,0.514,0.305,0.18,0.57,0.296,0.341
-ENG League 1,Sat,2023-03-18,13:00,Lincoln City,P'borough Utd,1.081,1.119,0.34,0.302,0.359,0.651,0.377,0.45
-ENG League 1,Sat,2023-03-18,15:00,Wycombe,Barnsley,1.048,1.081,0.338,0.308,0.355,0.633,0.358,0.434
-ENG League 1,Sat,2023-03-18,15:00,Port Vale,Burton Albion,1.709,1.2,0.489,0.247,0.264,0.791,0.556,0.577
-ENG League 1,Sat,2023-03-18,15:00,Bristol Rovers,Portsmouth,1.414,1.611,0.332,0.249,0.418,0.809,0.582,0.61
-ENG League 1,Sat,2023-03-18,15:00,Morecambe,Oxford United,1.127,1.169,0.343,0.294,0.363,0.674,0.403,0.471
-ENG League 1,Sat,2023-03-18,15:00,Plymouth Argyle,FG Rovers,3.115,0.607,0.858,0.1,0.042,0.888,0.718,0.437
-ENG League 1,Sat,2023-03-18,15:00,Cambridge Utd,Charlton Ath,0.897,1.494,0.221,0.271,0.507,0.694,0.428,0.464
-ENG League 1,Sat,2023-03-18,15:00,Derby County,Fleetwood Town,1.505,0.741,0.55,0.27,0.179,0.661,0.39,0.412
-ENG League 1,Sat,2023-03-18,15:00,Ipswich Town,Shrewsbury,1.914,0.794,0.634,0.222,0.144,0.757,0.508,0.471
-ENG League 1,Sat,2023-03-18,15:00,Cheltenham,Exeter City,0.967,1.142,0.301,0.308,0.391,0.628,0.353,0.427
-ENG League 1,Sat,2023-03-18,15:00,Acc'ton Stanley,MK Dons,1.12,0.949,0.389,0.311,0.3,0.618,0.342,0.418
-ENG League 1,Tue,2023-03-21,19:45,Acc'ton Stanley,Plymouth Argyle,0.853,1.967,0.151,0.218,0.631,0.776,0.535,0.498
-ENG League 1,Tue,2023-03-21,20:00,Barnsley,Sheffield Weds,0.917,1.071,0.3,0.319,0.381,0.596,0.32,0.4
-ENG League 2,Tue,2023-03-14,19:45,Walsall,Swindon Town,1.135,0.974,0.384,0.315,0.301,0.631,0.353,0.431
-ENG League 2,Tue,2023-03-14,19:45,Northampton,Mansfield Town,1.701,1.25,0.473,0.253,0.275,0.801,0.566,0.59
-ENG League 2,Tue,2023-03-14,19:45,Newport County,AFC Wimbledon,1.087,0.969,0.371,0.32,0.31,0.618,0.339,0.42
-ENG League 2,Tue,2023-03-14,19:45,Stevenage,Crewe Alexandra,1.707,0.697,0.61,0.248,0.142,0.699,0.431,0.418
-ENG League 2,Tue,2023-03-14,19:45,Sutton United,Grimsby Town,1.281,0.959,0.43,0.3,0.27,0.663,0.388,0.454
-ENG League 2,Sat,2023-03-18,13:00,Bradford City,Hartlepool Utd,2.097,0.719,0.688,0.202,0.11,0.777,0.534,0.456
-ENG League 2,Sat,2023-03-18,15:00,Carlisle United,Stevenage,1.394,1.179,0.411,0.28,0.31,0.735,0.475,0.529
-ENG League 2,Sat,2023-03-18,15:00,Stockport,Mansfield Town,1.711,1.155,0.497,0.253,0.25,0.787,0.546,0.568
-ENG League 2,Sat,2023-03-18,15:00,Northampton,Crewe Alexandra,1.583,0.702,0.578,0.265,0.157,0.673,0.4,0.408
-ENG League 2,Sat,2023-03-18,15:00,Rochdale,Swindon Town,0.847,1.534,0.2,0.273,0.527,0.695,0.425,0.456
-ENG League 2,Sat,2023-03-18,15:00,Tranmere Rovers,Newport County,1.054,0.736,0.417,0.34,0.243,0.542,0.267,0.348
-ENG League 2,Sat,2023-03-18,15:00,Harrogate,Barrow,1.21,1.266,0.343,0.288,0.37,0.716,0.45,0.512
-ENG League 2,Sat,2023-03-18,15:00,Leyton Orient,Colchester Utd,1.442,0.422,0.622,0.277,0.101,0.562,0.287,0.269
-ENG League 2,Sat,2023-03-18,15:00,AFC Wimbledon,Crawley Town,1.715,1.043,0.524,0.253,0.223,0.769,0.52,0.538
-ENG League 2,Sat,2023-03-18,15:00,Walsall,Gillingham,1.062,0.463,0.495,0.352,0.153,0.457,0.197,0.249
-ENG League 2,Sat,2023-03-18,15:00,Salford City,Doncaster,1.791,0.988,0.555,0.245,0.199,0.772,0.525,0.53
-ENG League 2,Tue,2023-03-21,19:45,Mansfield Town,Grimsby Town,1.984,1.175,0.555,0.229,0.216,0.83,0.611,0.602
-ENG League 2,Tue,2023-03-21,19:45,Gillingham,Crewe Alexandra,0.745,0.773,0.301,0.381,0.318,0.456,0.196,0.291
-ENG League 2,Tue,2023-03-21,19:45,Crawley Town,Doncaster,1.377,1.44,0.352,0.267,0.381,0.779,0.535,0.578
-ENG League 2,Tue,2023-03-21,19:45,Bradford City,Carlisle United,1.194,1.05,0.384,0.304,0.312,0.664,0.389,0.462
-ENG Conference,Tue,2023-03-14,19:45,Wealdstone,Chesterfield,1.272,1.518,0.314,0.26,0.426,0.772,0.528,0.567
-ENG Conference,Tue,2023-03-14,19:45,Boreham Wood,Southend United,0.92,0.669,0.391,0.36,0.248,0.476,0.214,0.298
-ENG Conference,Tue,2023-03-14,19:45,Barnet,Yeovil Town,1.627,0.926,0.534,0.256,0.21,0.728,0.47,0.49
-ENG Conference,Tue,2023-03-14,19:45,Solihull Moors,Scunthorpe Utd,2.105,1.058,0.61,0.211,0.179,0.828,0.612,0.577
-ENG Conference,Tue,2023-03-14,19:45,Notts County,Eastleigh,1.996,0.723,0.669,0.209,0.122,0.758,0.511,0.449
-ENG Conference,Tue,2023-03-14,19:45,FC Halifax Town,Bromley,0.897,0.984,0.311,0.33,0.358,0.566,0.291,0.376
-ENG Conference,Tue,2023-03-14,19:45,Maidenhead Utd,Aldershot Town,1.437,1.166,0.428,0.27,0.302,0.738,0.482,0.53
-ENG Conference,Tue,2023-03-14,19:45,York City,Altrincham,1.742,1.316,0.471,0.243,0.286,0.813,0.59,0.608
-ENG Conference,Sat,2023-03-18,12:30,Woking,Chesterfield,1.562,1.107,0.474,0.261,0.265,0.75,0.499,0.534
-ENG Conference,Sat,2023-03-18,15:00,York City,Dorking Wand.,2.112,1.254,0.567,0.215,0.218,0.853,0.654,0.632
-ENG Conference,Sat,2023-03-18,15:00,Dag & Red,Oldham Athletic,1.674,1.377,0.441,0.246,0.312,0.812,0.588,0.612
-ENG Conference,Sat,2023-03-18,15:00,FC Halifax Town,Yeovil Town,0.799,0.608,0.363,0.388,0.249,0.415,0.168,0.255
-ENG Conference,Sat,2023-03-18,15:00,Solihull Moors,Boreham Wood,0.935,1.09,0.302,0.315,0.383,0.606,0.33,0.408
-ENG Conference,Sat,2023-03-18,15:00,Bromley,Wrexham,1.006,1.965,0.184,0.223,0.593,0.8,0.57,0.549
-ENG Conference,Sat,2023-03-18,15:00,Eastleigh,Altrincham,1.649,0.998,0.522,0.254,0.224,0.746,0.493,0.514
-ENG Conference,Sat,2023-03-18,15:00,Gateshead,Torquay,1.765,1.087,0.528,0.243,0.229,0.782,0.543,0.553
-ENG Conference,Sat,2023-03-18,15:00,Southend United,Aldershot Town,1.611,0.844,0.551,0.258,0.192,0.708,0.445,0.461
-ENG Conference,Sat,2023-03-18,15:00,Maidenhead Utd,Maidstone Utd,1.88,0.899,0.6,0.229,0.171,0.769,0.526,0.507
-ENG Conference,Sat,2023-03-18,15:00,Scunthorpe Utd,Wealdstone,1.309,1.615,0.306,0.252,0.442,0.793,0.559,0.589
-ENG Conference,Sat,2023-03-18,15:00,Barnet,Notts County,1.428,2.776,0.174,0.171,0.655,0.925,0.79,0.715
-SCO Premier League,Sat,2023-03-18,12:30,Motherwell,Rangers,0.941,2.144,0.197,0.111,0.692,0.77,0.596,0.496
-SCO Premier League,Sat,2023-03-18,15:00,Celtic,Hibernian,3.762,0.555,0.93,0.034,0.036,0.916,0.805,0.403
-SCO Premier League,Sat,2023-03-18,15:00,Aberdeen,Hearts,1.627,1.861,0.384,0.136,0.48,0.82,0.677,0.636
-SCO Premier League,Sat,2023-03-18,15:00,Kilmarnock,St Johnstone,0.909,1.101,0.359,0.181,0.46,0.534,0.326,0.336
-SCO Premier League,Sat,2023-03-18,15:00,Livingston,Ross County,1.246,0.672,0.558,0.184,0.258,0.514,0.301,0.292
-SCO Premier League,Sat,2023-03-18,15:00,Dundee United,St Mirren,1.317,1.121,0.471,0.153,0.376,0.64,0.44,0.434
-SCO Division 1,Fri,2023-03-17,19:45,Arbroath FC,Gr'nock Morton,0.816,1.301,0.229,0.296,0.475,0.63,0.355,0.411
-SCO Division 1,Sat,2023-03-18,15:00,Raith Rovers,Cove Rangers FC,1.791,1.031,0.548,0.24,0.212,0.777,0.536,0.54
-SCO Division 1,Sat,2023-03-18,15:00,Hamilton,Ayr United,0.951,1.9,0.18,0.228,0.592,0.781,0.543,0.526
-SCO Division 1,Sat,2023-03-18,15:00,Queen's Park FC,Inverness CT,2.144,1.268,0.571,0.212,0.217,0.858,0.662,0.638
-SCO Division 1,Sat,2023-03-18,15:00,Partick Thistle,Dundee,1.542,1.481,0.388,0.25,0.362,0.808,0.582,0.611
-SCO Division 1,Tue,2023-03-21,19:45,Dundee,Ayr United,1.633,1.381,0.431,0.249,0.32,0.807,0.58,0.606
-FRA Ligue 1,Fri,2023-03-17,21:00,Lyon,Nantes,1.442,0.706,0.502,0.36,0.138,0.678,0.363,0.432
-FRA Ligue 1,Sat,2023-03-18,17:00,Toulouse,Lille,1.617,2.12,0.265,0.271,0.464,0.918,0.721,0.736
-FRA Ligue 1,Sat,2023-03-18,21:00,Lens,Angers,2.985,0.325,0.883,0.109,0.008,0.856,0.643,0.277
-FRA Ligue 1,Sun,2023-03-19,13:00,Ajaccio,Monaco,0.703,2.078,0.08,0.261,0.66,0.8,0.526,0.476
-FRA Ligue 1,Sun,2023-03-19,15:00,Nice,Lorient,1.528,0.702,0.527,0.346,0.127,0.697,0.385,0.439
-FRA Ligue 1,Sun,2023-03-19,15:00,Strasbourg,Auxerre,2.045,0.871,0.609,0.277,0.114,0.825,0.558,0.543
-FRA Ligue 1,Sun,2023-03-19,15:00,Troyes,Brest,1.587,1.376,0.382,0.329,0.289,0.838,0.568,0.638
-FRA Ligue 1,Sun,2023-03-19,15:00,Montpellier,Clermont Foot,1.257,1.37,0.295,0.357,0.348,0.785,0.488,0.581
-FRA Ligue 1,Sun,2023-03-19,17:05,Paris S-G,Rennes,2.245,0.957,0.631,0.255,0.114,0.862,0.62,0.584
-FRA Ligue 1,Sun,2023-03-19,20:45,Reims,Marseille,1.037,1.201,0.265,0.388,0.347,0.705,0.388,0.502
-FRA Ligue 2,Tue,2023-03-14,19:00,Paris FC,Amiens,1.004,0.945,0.353,0.324,0.322,0.585,0.309,0.393
-FRA Ligue 2,Sat,2023-03-18,15:00,Le Havre,Saint-Étienne,1.995,0.509,0.724,0.195,0.081,0.717,0.457,0.348
-FRA Ligue 2,Sat,2023-03-18,19:00,Dijon,Pau FC,0.926,0.72,0.381,0.355,0.264,0.495,0.228,0.315
-FRA Ligue 2,Sat,2023-03-18,19:00,Quevilly-Rouen,Metz,1.012,1.237,0.296,0.296,0.408,0.663,0.39,0.457
-FRA Ligue 2,Sat,2023-03-18,19:00,Annecy,Guingamp,1.435,1.228,0.414,0.269,0.318,0.75,0.497,0.544
-FRA Ligue 2,Sat,2023-03-18,19:00,Bordeaux,Nîmes,2.054,0.701,0.686,0.202,0.112,0.765,0.52,0.443
-FRA Ligue 2,Sat,2023-03-18,19:00,Paris FC,Bastia,1.026,0.938,0.362,0.323,0.316,0.59,0.313,0.396
-FRA Ligue 2,Sat,2023-03-18,19:00,Caen,Valenciennes,1.316,0.796,0.484,0.296,0.221,0.629,0.354,0.407
-FRA Ligue 2,Sat,2023-03-18,19:00,Sochaux,Grenoble,1.327,0.688,0.515,0.296,0.189,0.603,0.327,0.371
-FRA Ligue 2,Sat,2023-03-18,19:00,Niort,Stade Laval,1.336,1.554,0.323,0.256,0.421,0.789,0.552,0.586
-FRA Ligue 2,Sat,2023-03-18,19:00,Amiens,Rodez Aveyron,1.406,0.818,0.503,0.284,0.213,0.656,0.384,0.427
-DEU Bundesliga 1,Fri,2023-03-17,20:30,M'Gladbach,Werder Bremen,2.447,1.396,0.576,0.247,0.178,0.926,0.738,0.717
-DEU Bundesliga 1,Sat,2023-03-18,15:30,Augsburg,Schalke 04,1.938,0.94,0.565,0.3,0.135,0.824,0.549,0.564
-DEU Bundesliga 1,Sat,2023-03-18,15:30,Stuttgart,Wolfsburg,1.077,1.628,0.203,0.343,0.454,0.8,0.507,0.578
-DEU Bundesliga 1,Sat,2023-03-18,15:30,Hoffenheim,Hertha BSC,1.557,1.07,0.437,0.352,0.212,0.787,0.488,0.568
-DEU Bundesliga 1,Sat,2023-03-18,15:30,Bochum,RB Leipzig,0.991,2.617,0.091,0.216,0.693,0.904,0.699,0.612
-DEU Bundesliga 1,Sat,2023-03-18,18:30,Dortmund,Köln,2.35,0.851,0.675,0.24,0.085,0.862,0.62,0.552
-DEU Bundesliga 1,Sun,2023-03-19,15:30,Union Berlin,Eint Frankfurt,1.575,1.074,0.441,0.349,0.21,0.791,0.494,0.571
-DEU Bundesliga 1,Sun,2023-03-19,17:30,Leverkusen,Bayern Munich,1.346,2.554,0.158,0.235,0.607,0.929,0.747,0.711
-DEU Bundesliga 1,Sun,2023-03-19,19:30,Mainz 05,Freiburg,1.578,1.161,0.422,0.346,0.232,0.807,0.516,0.594
-DEU Bundesliga 2,Fri,2023-03-17,18:30,Arminia,Nürnberg,1.627,0.843,0.561,0.243,0.195,0.705,0.448,0.456
-DEU Bundesliga 2,Fri,2023-03-17,18:30,Heidenheim,Karlsruher,2.283,1.117,0.637,0.188,0.175,0.852,0.66,0.603
-DEU Bundesliga 2,Sat,2023-03-18,13:00,Greuther Fürth,Magdeburg,1.673,1.262,0.472,0.237,0.291,0.789,0.562,0.58
-DEU Bundesliga 2,Sat,2023-03-18,13:00,Hamburger SV,Holstein Kiel,2.582,1.343,0.642,0.174,0.184,0.902,0.751,0.682
-DEU Bundesliga 2,Sat,2023-03-18,13:00,Jahn R'burg,Paderborn 07,0.959,1.962,0.18,0.211,0.609,0.787,0.559,0.528
-DEU Bundesliga 2,Sat,2023-03-18,20:30,Darmstadt 98,Kaiserslautern,1.601,0.883,0.545,0.246,0.209,0.707,0.452,0.466
-DEU Bundesliga 2,Sun,2023-03-19,13:30,Braunschweig,Hannover 96,1.333,1.486,0.342,0.247,0.411,0.77,0.535,0.568
-DEU Bundesliga 2,Sun,2023-03-19,13:30,Sandhausen,St. Pauli,1.045,1.541,0.259,0.251,0.49,0.728,0.478,0.508
-DEU Bundesliga 2,Sun,2023-03-19,13:30,Hansa Rostock,Düsseldorf,0.801,1.219,0.245,0.293,0.461,0.597,0.329,0.386
-ITA Serie A,Fri,2023-03-17,18:30,Sassuolo,Spezia,1.866,0.948,0.588,0.226,0.186,0.773,0.534,0.519
-ITA Serie A,Fri,2023-03-17,20:45,Atalanta,Empoli,1.858,0.723,0.643,0.22,0.138,0.73,0.477,0.436
-ITA Serie A,Sat,2023-03-18,15:00,Monza,Cremonese,1.825,0.858,0.601,0.228,0.171,0.75,0.502,0.485
-ITA Serie A,Sat,2023-03-18,18:00,Salernitana,Bologna,1.34,1.452,0.347,0.256,0.398,0.769,0.529,0.567
-ITA Serie A,Sat,2023-03-18,20:45,Udinese,Milan,1.463,1.336,0.401,0.255,0.344,0.77,0.53,0.568
-ITA Serie A,Sun,2023-03-19,12:30,Sampdoria,Hellas Verona,0.666,0.897,0.255,0.358,0.388,0.465,0.207,0.29
-ITA Serie A,Sun,2023-03-19,15:00,Fiorentina,Lecce,1.232,0.774,0.468,0.3,0.232,0.597,0.325,0.383
-ITA Serie A,Sun,2023-03-19,15:00,Torino,Napoli,0.629,1.768,0.126,0.227,0.648,0.692,0.43,0.388
-ITA Serie A,Sun,2023-03-19,18:00,Lazio,Roma,1.313,0.703,0.511,0.291,0.198,0.6,0.328,0.371
-ITA Serie A,Sun,2023-03-19,20:45,Inter,Juventus,1.396,1.405,0.37,0.256,0.374,0.771,0.531,0.569
-ITA Serie B,Sat,2023-03-18,,Ternana,Bari,0.911,1.468,0.227,0.279,0.494,0.694,0.425,0.467
-ITA Serie B,Sat,2023-03-18,,Frosinone,Cosenza,2.487,0.416,0.824,0.135,0.041,0.789,0.555,0.315
-ITA Serie B,Sat,2023-03-18,,Pisa,Benevento,1.445,0.612,0.568,0.282,0.151,0.616,0.339,0.356
-ITA Serie B,Sat,2023-03-18,,Cittadella,Perugia,1.152,1.068,0.369,0.305,0.327,0.658,0.383,0.457
-ITA Serie B,Sat,2023-03-18,,Südtirol,SPAL,1.427,0.829,0.504,0.285,0.211,0.666,0.392,0.435
-ITA Serie B,Sat,2023-03-18,,Ascoli,Venezia,1.346,0.996,0.44,0.29,0.269,0.686,0.415,0.474
-ITA Serie B,Sat,2023-03-18,,Como,Parma,1.17,1.177,0.351,0.296,0.354,0.687,0.416,0.485
-ITA Serie B,Sat,2023-03-18,,Palermo,Modena,1.512,1.244,0.428,0.266,0.306,0.768,0.52,0.562
-ITA Serie B,Sat,2023-03-18,,US Reggina,Cagliari,1.353,0.997,0.442,0.289,0.269,0.688,0.417,0.475
-ITA Serie B,Sat,2023-03-18,,Brescia,Genoa,0.519,1.288,0.143,0.306,0.55,0.546,0.271,0.3
-ESP La Liga,Fri,2023-03-17,21:00,Valladolid,Athletic Club,0.758,1.337,0.224,0.259,0.517,0.607,0.349,0.38
-ESP La Liga,Sat,2023-03-18,14:00,Almería,Cádiz,1.645,0.998,0.536,0.223,0.241,0.729,0.492,0.498
-ESP La Liga,Sat,2023-03-18,16:15,Rayo Vallecano,Girona,1.665,1.216,0.49,0.22,0.29,0.771,0.55,0.56
-ESP La Liga,Sat,2023-03-18,18:30,Espanyol,Celta Vigo,1.69,1.356,0.465,0.216,0.319,0.797,0.587,0.595
-ESP La Liga,Sat,2023-03-18,21:00,Atlético Madrid,Valencia,1.6,0.623,0.621,0.226,0.153,0.64,0.383,0.36
-ESP La Liga,Sun,2023-03-19,14:00,Betis,Mallorca,1.258,0.632,0.528,0.274,0.198,0.552,0.293,0.324
-ESP La Liga,Sun,2023-03-19,16:15,Osasuna,Villarreal,0.794,0.759,0.343,0.335,0.322,0.447,0.204,0.279
-ESP La Liga,Sun,2023-03-19,16:15,Real Sociedad,Elche,2.426,0.557,0.794,0.133,0.073,0.792,0.573,0.383
-ESP La Liga,Sun,2023-03-19,18:30,Getafe,Sevilla,1.531,1.165,0.469,0.23,0.301,0.739,0.505,0.527
-ESP La Liga,Sun,2023-03-19,21:00,Barcelona,Real Madrid,1.331,0.466,0.595,0.266,0.139,0.527,0.269,0.264
-ESP La Liga Segunda,Fri,2023-03-17,21:00,Málaga,Levante,0.774,1.125,0.242,0.33,0.428,0.575,0.296,0.373
-ESP La Liga Segunda,Sat,2023-03-18,14:00,Andorra,UD Ibiza,1.836,0.545,0.68,0.224,0.096,0.694,0.426,0.36
-ESP La Liga Segunda,Sat,2023-03-18,16:15,Albacete,Granada,1.151,1.152,0.349,0.302,0.349,0.679,0.405,0.477
-ESP La Liga Segunda,Sat,2023-03-18,16:15,Leganés,Oviedo,0.808,0.471,0.399,0.41,0.191,0.373,0.138,0.216
-ESP La Liga Segunda,Sat,2023-03-18,17:30,Tenerife,Las Palmas,0.601,0.91,0.222,0.376,0.402,0.454,0.194,0.278
-ESP La Liga Segunda,Sat,2023-03-18,21:00,Ponferradina,Alavés,0.94,1.302,0.26,0.3,0.44,0.665,0.388,0.453
-ESP La Liga Segunda,Sun,2023-03-19,14:00,Burgos,Sporting Gijón,1.135,0.514,0.503,0.338,0.159,0.498,0.229,0.28
-ESP La Liga Segunda,Sun,2023-03-19,16:15,Huesca,Zaragoza,1.029,0.563,0.454,0.356,0.19,0.481,0.214,0.285
-ESP La Liga Segunda,Sun,2023-03-19,18:30,Villarreal B,Cartagena,1.33,1.153,0.398,0.288,0.314,0.718,0.452,0.512
-ESP La Liga Segunda,Sun,2023-03-19,18:30,Lugo,Racing Sant,0.703,0.858,0.268,0.375,0.357,0.471,0.207,0.3
-ESP La Liga Segunda,Mon,2023-03-20,21:00,CD Mirandés,Eibar,1.086,1.132,0.334,0.309,0.357,0.659,0.382,0.458
-TUR Super Lig,Fri,2023-03-17,20:00,Konyaspor,Galatasaray,0.591,1.396,0.178,0.234,0.588,0.569,0.32,0.315
-TUR Super Lig,Sat,2023-03-18,13:30,Kasımpaşa,Ümraniyespor,1.737,1.455,0.463,0.193,0.343,0.808,0.618,0.612
-TUR Super Lig,Sat,2023-03-18,16:00,Adana Demirspor,Antalyaspor,2.209,0.886,0.691,0.155,0.154,0.798,0.598,0.507
-TUR Super Lig,Sat,2023-03-18,19:00,Beşiktaş,İstanbulspor,2.527,0.638,0.797,0.118,0.085,0.812,0.613,0.421
-TUR Super Lig,Sun,2023-03-19,,Kayserispor,Hatayspor,2.19,0.774,0.714,0.151,0.135,0.779,0.569,0.462
-TUR Super Lig,Sun,2023-03-19,,Gaziantep FK,Trabzonspor,1.51,1.385,0.426,0.204,0.37,0.763,0.553,0.562
-TUR Super Lig,Sun,2023-03-19,,Fenerbahçe,Ankaragücü,2.768,0.744,0.806,0.108,0.086,0.854,0.681,0.481
-TUR Super Lig,Sun,2023-03-19,,Adana Demirspor,Kasımpaşa,2.566,0.857,0.756,0.128,0.116,0.842,0.665,0.518
-TUR Super Lig,Sun,2023-03-19,,Trabzonspor,Beşiktaş,1.177,1.36,0.347,0.219,0.434,0.697,0.466,0.491
-TUR Super Lig,Sun,2023-03-19,,Gaziantep FK,Konyaspor,1.2,0.838,0.469,0.249,0.282,0.58,0.334,0.372
-TUR Super Lig,Sun,2023-03-19,,Antalyaspor,Alanyaspor,1.763,1.332,0.496,0.193,0.311,0.795,0.598,0.59
-TUR Super Lig,Sun,2023-03-19,,Galatasaray,Kayserispor,2.47,0.743,0.766,0.128,0.106,0.817,0.623,0.466
-TUR Super Lig,Sun,2023-03-19,,Hatayspor,Fatih Karagümrük,1.601,2.51,0.25,0.162,0.588,0.904,0.778,0.721
-TUR Super Lig,Sun,2023-03-19,,Giresunspor,Sivasspor,1.118,1.304,0.342,0.225,0.432,0.672,0.436,0.466
-TUR Super Lig,Sun,2023-03-19,,İstanbulspor,Başakşehir,0.926,1.664,0.231,0.2,0.569,0.709,0.479,0.468
-TUR Super Lig,Sun,2023-03-19,16:00,Fatih Karagümrük,Başakşehir,1.964,1.976,0.407,0.181,0.412,0.89,0.753,0.726
-TUR Super Lig,Sun,2023-03-19,16:00,Sivasspor,Ankaragücü,1.544,1.032,0.514,0.21,0.276,0.705,0.475,0.484
-TUR Super Lig,Sun,2023-03-19,19:00,Alanyaspor,Fenerbahçe,1.249,2.446,0.195,0.154,0.651,0.869,0.714,0.637
-NLD Eredivisie,Fri,2023-03-17,20:00,Volendam,Fortuna Sittard,1.663,1.6,0.387,0.254,0.36,0.848,0.633,0.658
-NLD Eredivisie,Sat,2023-03-18,16:30,Utrecht,Go Ahead Eag,2.232,1.371,0.56,0.219,0.221,0.884,0.698,0.675
-NLD Eredivisie,Sat,2023-03-18,18:45,Emmen,Sparta R'dam,0.705,1.529,0.159,0.283,0.558,0.666,0.386,0.409
-NLD Eredivisie,Sat,2023-03-18,21:00,RKC Waalwijk,NEC Nijmegen,1.206,1.133,0.363,0.309,0.328,0.692,0.414,0.489
-NLD Eredivisie,Sun,2023-03-19,12:15,Groningen,Heerenveen,1.049,1.368,0.274,0.299,0.427,0.709,0.435,0.498
-NLD Eredivisie,Sun,2023-03-19,14:30,Excelsior,Cambuur,1.108,1.05,0.353,0.324,0.323,0.65,0.366,0.45
-NLD Eredivisie,Sun,2023-03-19,14:30,Ajax,Feyenoord,1.893,1.433,0.474,0.244,0.282,0.855,0.646,0.657
-NLD Eredivisie,Sun,2023-03-19,16:45,Vitesse,PSV Eindhoven,1.122,2.658,0.13,0.177,0.693,0.898,0.728,0.634
-NLD Eredivisie,Sun,2023-03-19,20:00,Twente,AZ Alkmaar,1.373,0.937,0.456,0.302,0.242,0.685,0.406,0.468
-PRT Liga 1,Fri,2023-03-17,19:15,Santa Clara,Rio Ave,0.663,1.068,0.275,0.226,0.498,0.466,0.251,0.268
-PRT Liga 1,Sat,2023-03-18,15:30,Portimonense,Vizela,0.698,1.079,0.286,0.221,0.494,0.479,0.263,0.28
-PRT Liga 1,Sat,2023-03-18,18:00,Arouca,Paços,2.045,0.823,0.696,0.124,0.179,0.742,0.547,0.45
-PRT Liga 1,Sat,2023-03-18,18:00,Benfica,Vitória,2.383,0.453,0.83,0.091,0.079,0.75,0.539,0.305
-PRT Liga 1,Sat,2023-03-18,20:30,Estoril,Chaves,0.982,1.124,0.369,0.19,0.441,0.568,0.352,0.368
-PRT Liga 1,Sun,2023-03-19,15:30,Casa Pia,Marítimo,1.129,0.554,0.544,0.228,0.227,0.455,0.238,0.241
-PRT Liga 1,Sun,2023-03-19,18:00,Braga,Porto,1.542,1.658,0.4,0.15,0.45,0.787,0.62,0.594
-PRT Liga 1,Sun,2023-03-19,20:30,Boavista,Famalicão,1.28,1.225,0.43,0.167,0.403,0.662,0.457,0.459
+ENG League 1,Sat,2023-03-25,15:00,P'borough Utd,Derby County,1.558,1.5,0.389,0.248,0.363,0.813,0.59,0.617
+ENG League 1,Sat,2023-03-25,15:00,Exeter City,Acc'ton Stanley,1.753,0.832,0.588,0.24,0.171,0.733,0.478,0.471
+ENG League 1,Sat,2023-03-25,15:00,Oxford United,Cheltenham,1.116,0.815,0.42,0.319,0.261,0.58,0.305,0.379
+ENG League 1,Sat,2023-03-25,15:00,Portsmouth,Port Vale,1.747,0.821,0.59,0.241,0.169,0.73,0.473,0.466
+ENG League 1,Sat,2023-03-25,15:00,Shrewsbury,Bristol Rovers,1.805,1.095,0.536,0.238,0.225,0.789,0.554,0.56
+ENG League 1,Sat,2023-03-25,15:00,Burton Albion,Cambridge Utd,1.77,1.087,0.53,0.242,0.229,0.782,0.544,0.554
+ENG League 1,Sat,2023-03-25,15:00,Charlton Ath,Wycombe,1.161,1.274,0.332,0.283,0.386,0.704,0.439,0.499
+ENG League 1,Sat,2023-03-25,15:00,Fleetwood Town,Lincoln City,0.973,0.637,0.419,0.353,0.228,0.482,0.219,0.297
+ENG League 1,Sat,2023-03-25,15:00,MK Dons,Morecambe,1.272,0.997,0.423,0.292,0.286,0.666,0.396,0.459
+ENG League 1,Sat,2023-03-25,15:00,Barnsley,Ipswich Town,1.215,1.12,0.378,0.29,0.332,0.682,0.413,0.478
+ENG League 1,Sun,2023-03-26,13:00,FG Rovers,Sheffield Weds,0.426,2.355,0.049,0.146,0.805,0.768,0.526,0.316
+ENG League 1,Tue,2023-03-28,19:45,Exeter City,Barnsley,0.941,1.596,0.218,0.259,0.523,0.724,0.466,0.49
+ENG League 1,Wed,2023-03-29,19:45,Cheltenham,Sheffield Weds,0.495,1.557,0.112,0.255,0.633,0.611,0.337,0.312
+ENG League 2,Sat,2023-03-25,15:00,Crawley Town,Rochdale,1.635,1.157,0.48,0.254,0.265,0.772,0.529,0.557
+ENG League 2,Sat,2023-03-25,15:00,Swindon Town,Stockport,1.139,1.252,0.329,0.287,0.384,0.695,0.428,0.491
+ENG League 2,Sat,2023-03-25,15:00,Grimsby Town,Walsall,0.927,1.024,0.313,0.324,0.364,0.586,0.31,0.393
+ENG League 2,Sat,2023-03-25,15:00,Colchester Utd,Tranmere Rovers,0.853,0.938,0.307,0.34,0.353,0.54,0.267,0.355
+ENG League 2,Sat,2023-03-25,15:00,Mansfield Town,Sutton United,1.668,1.074,0.508,0.252,0.24,0.763,0.516,0.539
+ENG League 2,Sat,2023-03-25,15:00,Crewe Alexandra,Bradford City,0.75,1.18,0.229,0.315,0.455,0.58,0.304,0.371
+ENG League 2,Sat,2023-03-25,15:00,Barrow,AFC Wimbledon,1.134,0.913,0.401,0.312,0.287,0.612,0.336,0.411
+ENG League 2,Sat,2023-03-25,15:00,Gillingham,Carlisle United,0.581,1.296,0.162,0.301,0.537,0.564,0.29,0.325
+ENG League 2,Sat,2023-03-25,15:00,Hartlepool Utd,Leyton Orient,0.707,1.874,0.13,0.223,0.647,0.733,0.477,0.433
+ENG League 2,Sat,2023-03-25,15:00,Stevenage,Salford City,1.519,1.053,0.475,0.267,0.258,0.732,0.475,0.514
+ENG League 2,Sat,2023-03-25,15:00,Newport County,Harrogate,1.441,1.027,0.461,0.275,0.264,0.711,0.448,0.495
+ENG League 2,Sat,2023-03-25,15:00,Doncaster,Northampton,0.914,1.376,0.244,0.285,0.471,0.672,0.401,0.453
+ENG League 2,Tue,2023-03-28,19:45,Crawley Town,Grimsby Town,1.297,1.438,0.335,0.265,0.4,0.762,0.515,0.559
+ENG League 2,Tue,2023-03-28,19:45,AFC Wimbledon,Walsall,0.862,0.981,0.301,0.334,0.365,0.555,0.281,0.367
+ENG Conference,Sat,2023-03-25,15:00,Boreham Wood,Eastleigh,0.983,0.641,0.42,0.354,0.226,0.489,0.223,0.302
+ENG Conference,Sat,2023-03-25,15:00,Notts County,Scunthorpe Utd,3.649,0.762,0.88,0.081,0.038,0.936,0.816,0.521
+ENG Conference,Sat,2023-03-25,15:00,Altrincham,Southend United,1.247,1.438,0.321,0.27,0.409,0.755,0.503,0.549
+ENG Conference,Sat,2023-03-25,15:00,Wrexham,York City,2.621,0.728,0.775,0.148,0.077,0.851,0.65,0.483
+ENG Conference,Sat,2023-03-25,15:00,Torquay,Dag & Red,1.486,1.683,0.335,0.245,0.42,0.83,0.614,0.635
+ENG Conference,Sat,2023-03-25,15:00,Aldershot Town,Gateshead,1.582,1.242,0.447,0.259,0.294,0.779,0.536,0.571
+ENG Conference,Sat,2023-03-25,15:00,Dorking Wand.,Maidenhead Utd,1.541,1.555,0.372,0.249,0.378,0.82,0.598,0.625
+ENG Conference,Sat,2023-03-25,15:00,Wealdstone,Barnet,1.725,1.872,0.356,0.228,0.416,0.878,0.697,0.7
+ENG Conference,Sat,2023-03-25,15:00,Oldham Athletic,Solihull Moors,1.407,1.354,0.379,0.267,0.355,0.768,0.521,0.566
+ENG Conference,Sat,2023-03-25,15:00,Chesterfield,FC Halifax Town,1.54,0.663,0.58,0.267,0.154,0.652,0.378,0.386
+ENG Conference,Sat,2023-03-25,15:00,Maidstone Utd,Woking,0.848,2.197,0.127,0.196,0.677,0.812,0.587,0.512
+ENG Conference,Sat,2023-03-25,15:00,Yeovil Town,Bromley,0.825,0.968,0.29,0.341,0.368,0.542,0.268,0.355
+ENG Conference,Tue,2023-03-28,19:45,Gateshead,Dag & Red,1.565,1.369,0.415,0.256,0.329,0.796,0.562,0.595
+ENG Conference,Tue,2023-03-28,19:45,Wealdstone,Oldham Athletic,1.455,1.292,0.404,0.266,0.329,0.766,0.518,0.562
+ENG Conference,Tue,2023-03-28,19:45,Boreham Wood,Torquay,1.658,0.614,0.623,0.248,0.129,0.668,0.397,0.377
+ENG Conference,Tue,2023-03-28,19:45,Woking,Barnet,2.13,1.242,0.573,0.215,0.212,0.854,0.655,0.631
+ENG Conference,Tue,2023-03-28,19:45,Dorking Wand.,Southend United,1.153,1.722,0.25,0.249,0.501,0.787,0.548,0.567
+ENG Conference,Tue,2023-03-28,19:45,York City,Scunthorpe Utd,1.761,1.068,0.531,0.246,0.224,0.779,0.537,0.549
+ENG Conference,Tue,2023-03-28,19:45,Maidstone Utd,Bromley,1.015,1.832,0.202,0.238,0.56,0.782,0.542,0.541
+SCO Division 1,Fri,2023-03-24,19:45,Gr'nock Morton,Hamilton,1.711,0.697,0.611,0.248,0.141,0.7,0.432,0.418
+SCO Division 1,Fri,2023-03-24,19:45,Inverness CT,Partick Thistle,1.467,1.547,0.354,0.256,0.389,0.81,0.58,0.613
+SCO Division 1,Fri,2023-03-24,19:45,Queen's Park FC,Arbroath FC,2.132,0.801,0.674,0.203,0.123,0.797,0.562,0.492
+SCO Division 1,Fri,2023-03-24,19:45,Ayr United,Cove Rangers FC,2.914,1.03,0.754,0.146,0.1,0.908,0.754,0.612
+ESP La Liga Segunda,Fri,2023-03-24,21:00,Cartagena,Lugo,1.767,0.622,0.643,0.239,0.118,0.697,0.428,0.392
+ESP La Liga Segunda,Sat,2023-03-25,16:15,Racing Sant,Levante,0.686,0.802,0.272,0.387,0.341,0.447,0.188,0.283
+ESP La Liga Segunda,Sat,2023-03-25,16:15,UD Ibiza,Burgos,0.595,0.978,0.208,0.365,0.427,0.475,0.21,0.289
+ESP La Liga Segunda,Sat,2023-03-25,18:30,Alavés,Tenerife,1.367,0.705,0.518,0.298,0.184,0.622,0.343,0.386
+ESP La Liga Segunda,Sun,2023-03-26,14:00,Eibar,Andorra,1.149,0.652,0.468,0.333,0.2,0.547,0.27,0.336
+ESP La Liga Segunda,Sun,2023-03-26,16:15,Ponferradina,CD Mirandés,1.34,1.171,0.397,0.287,0.316,0.724,0.459,0.519
+ESP La Liga Segunda,Sun,2023-03-26,16:15,Zaragoza,Albacete,1.119,1.001,0.372,0.317,0.311,0.636,0.356,0.436
+ESP La Liga Segunda,Sun,2023-03-26,18:30,Villarreal B,Huesca,1.195,0.951,0.406,0.313,0.282,0.642,0.363,0.438
+ESP La Liga Segunda,Sun,2023-03-26,18:30,Granada,Oviedo,1.184,0.368,0.564,0.329,0.108,0.466,0.204,0.22
+ESP La Liga Segunda,Sun,2023-03-26,20:00,Las Palmas,Sporting Gijón,1.514,0.543,0.604,0.272,0.124,0.617,0.339,0.335
+ESP La Liga Segunda,Mon,2023-03-27,21:00,Málaga,Leganés,0.991,0.795,0.38,0.348,0.272,0.543,0.266,0.355
