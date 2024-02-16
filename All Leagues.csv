@@ -185,3 +185,40 @@ ESP La Liga Segunda,Sun,2024-02-18,18:30,Huesca,Amorebieta,1.187,0.474,0.531,0.3
 ESP La Liga Segunda,Sun,2024-02-18,21:00,Elche,Eibar,1.039,0.881,0.374,0.337,0.29,0.583,0.302,0.389
 ESP La Liga Segunda,Mon,2024-02-19,19:30,Tenerife,Eldense,1.417,0.906,0.479,0.291,0.23,0.685,0.41,0.462
 ESP La Liga Segunda,Fri,2024-02-23,20:30,Valladolid,Oviedo,0.975,0.694,0.399,0.36,0.241,0.508,0.235,0.322
+GRC Super League,Sat,2024-02-17,19:30,Atromitos,Aris,0.991,1.489,0.229,0.307,0.464,0.731,0.451,0.51
+GRC Super League,Sat,2024-02-17,20:30,Panathinaikos,PAS Lamia,2.505,0.397,0.824,0.145,0.031,0.796,0.555,0.311
+GRC Super League,Sun,2024-02-18,15:30,Volos NFC,PAS Giannina,1.459,1.041,0.445,0.309,0.247,0.736,0.456,0.519
+GRC Super League,Sun,2024-02-18,19:00,AEK Athens,AO Kifisia,3.838,0.422,0.933,0.057,0.01,0.93,0.798,0.341
+GRC Super League,Sun,2024-02-18,20:30,PAOK,Olympiacos,1.377,1.167,0.394,0.312,0.295,0.745,0.468,0.538
+GRC Super League,Mon,2024-02-19,17:30,OFI Crete,Panserraikos,1.306,1.13,0.382,0.32,0.297,0.723,0.44,0.517
+GRC Super League,Mon,2024-02-19,18:00,Asteras Tripoli,Panetolikos,1.436,0.858,0.483,0.315,0.202,0.691,0.402,0.462
+TUR Super Lig,Fri,2024-02-16,20:00,Kasımpaşa,Fatih Karagümrük,1.804,1.85,0.375,0.232,0.393,0.887,0.707,0.711
+TUR Super Lig,Sat,2024-02-17,13:30,Antalyaspor,İstanbulspor,1.684,0.848,0.562,0.26,0.178,0.729,0.464,0.475
+TUR Super Lig,Sat,2024-02-17,16:00,Hatayspor,Sivasspor,0.98,1.413,0.25,0.29,0.459,0.701,0.429,0.483
+TUR Super Lig,Sat,2024-02-17,19:00,Rizespor,Fenerbahçe,0.868,2.062,0.14,0.217,0.642,0.798,0.561,0.515
+TUR Super Lig,Sun,2024-02-18,13:30,Alanyaspor,Adana Demirspor,1.355,1.849,0.273,0.244,0.482,0.838,0.621,0.634
+TUR Super Lig,Sun,2024-02-18,16:00,Gaziantep FK,Samsunspor,1.098,1.232,0.316,0.303,0.381,0.687,0.412,0.483
+TUR Super Lig,Sun,2024-02-18,16:00,Pendikspor,Trabzonspor,1.429,2.045,0.26,0.229,0.511,0.869,0.674,0.67
+TUR Super Lig,Sun,2024-02-18,19:00,Ankaragücü,Galatasaray,0.628,1.713,0.123,0.249,0.628,0.687,0.415,0.391
+TUR Super Lig,Mon,2024-02-19,20:00,Beşiktaş,Konyaspor,1.832,0.817,0.605,0.241,0.153,0.751,0.494,0.478
+TUR Super Lig,Mon,2024-02-19,20:00,Başakşehir,Kayserispor,1.666,0.922,0.539,0.263,0.198,0.74,0.478,0.498
+NLD Eredivisie,Fri,2024-02-16,20:00,PSV Eindhoven,Heracles Almelo,5.025,0.686,0.955,0.036,0.008,0.981,0.924,0.497
+NLD Eredivisie,Sat,2024-02-17,18:45,Sparta R'dam,Excelsior,2.45,0.798,0.714,0.207,0.079,0.858,0.63,0.525
+NLD Eredivisie,Sat,2024-02-17,18:45,Fortuna Sittard,AZ Alkmaar,0.813,1.734,0.14,0.3,0.56,0.755,0.468,0.491
+NLD Eredivisie,Sat,2024-02-17,21:00,Heerenveen,Go Ahead Eag,1.635,1.372,0.404,0.307,0.289,0.835,0.578,0.634
+NLD Eredivisie,Sat,2024-02-17,21:00,Zwolle,Almere City,1.944,0.94,0.578,0.277,0.146,0.813,0.55,0.553
+NLD Eredivisie,Sun,2024-02-18,12:15,Twente,Utrecht,2.115,0.692,0.677,0.24,0.083,0.797,0.532,0.466
+NLD Eredivisie,Sun,2024-02-18,14:30,Vitesse,Volendam,1.597,1.158,0.44,0.319,0.241,0.796,0.52,0.582
+NLD Eredivisie,Sun,2024-02-18,14:30,Ajax,NEC Nijmegen,2.633,1.351,0.629,0.213,0.159,0.927,0.76,0.708
+NLD Eredivisie,Sun,2024-02-18,16:45,Feyenoord,RKC Waalwijk,3.476,0.576,0.885,0.095,0.02,0.923,0.769,0.435
+NLD Eredivisie,Fri,2024-02-23,20:00,Utrecht,Heracles Almelo,2.472,1.239,0.621,0.225,0.153,0.907,0.716,0.673
+PRT Liga 1,Fri,2024-02-16,20:15,Famalicão,Rio Ave,1.153,0.866,0.467,0.216,0.317,0.556,0.328,0.353
+PRT Liga 1,Sat,2024-02-17,15:30,Chaves,Boavista,1.541,1.58,0.408,0.167,0.425,0.783,0.603,0.589
+PRT Liga 1,Sat,2024-02-17,18:00,Portimonense,Vitória,0.813,1.396,0.259,0.193,0.548,0.607,0.38,0.378
+PRT Liga 1,Sat,2024-02-17,20:30,Porto,Estrela,2.044,0.445,0.778,0.128,0.094,0.686,0.453,0.288
+PRT Liga 1,Sun,2024-02-18,15:30,Casa Pia,Arouca,1.098,1.336,0.349,0.188,0.463,0.657,0.439,0.449
+PRT Liga 1,Sun,2024-02-18,18:00,Estoril,Gil Vicente FC,1.487,1.206,0.477,0.176,0.347,0.71,0.505,0.503
+PRT Liga 1,Sun,2024-02-18,18:00,Benfica,Vizela,2.631,0.414,0.862,0.081,0.056,0.79,0.587,0.297
+PRT Liga 1,Sun,2024-02-18,20:30,Braga,Farense,2.608,1.086,0.723,0.118,0.159,0.86,0.714,0.591
+PRT Liga 1,Mon,2024-02-19,20:15,Moreirense,Sporting CP,0.932,1.696,0.243,0.166,0.591,0.701,0.489,0.458
+PRT Liga 1,Fri,2024-02-23,20:15,Arouca,Famalicão,1.551,0.942,0.555,0.176,0.269,0.672,0.454,0.441
