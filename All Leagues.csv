@@ -1,240 +1,296 @@
 League,day,date,time,home,away,Home xG,Away xG,Home Win,Draw,Away Win,Over 1.5,Over 2.5,BTTS
-ENG Premier League,Fri,2024-02-23,20:00,Chelsea,Tottenham,1.619,1.634,0.383,0.228,0.389,0.834,0.631,0.643
-ENG Premier League,Sat,2024-02-24,15:00,Manchester Utd,Fulham,1.61,1.014,0.515,0.244,0.241,0.735,0.488,0.508
-ENG Premier League,Sat,2024-02-24,15:00,Crystal Palace,Burnley,1.641,0.913,0.547,0.241,0.211,0.721,0.47,0.481
-ENG Premier League,Sat,2024-02-24,15:00,Brighton,Everton,1.901,0.895,0.612,0.214,0.174,0.766,0.53,0.501
-ENG Premier League,Sat,2024-02-24,15:00,Aston Villa,Nott'ham Forest,2.138,0.869,0.667,0.19,0.143,0.8,0.578,0.51
-ENG Premier League,Sat,2024-02-24,17:30,Bournemouth,Manchester City,0.883,2.523,0.112,0.157,0.731,0.852,0.662,0.538
-ENG Premier League,Sat,2024-02-24,20:00,Arsenal,Newcastle Utd,2.119,1.205,0.585,0.203,0.213,0.843,0.645,0.614
-ENG Premier League,Sun,2024-02-25,13:30,Wolves,Sheffield Utd,2.244,0.823,0.698,0.178,0.124,0.809,0.592,0.5
-ENG Premier League,Mon,2024-02-26,20:00,West Ham,Brentford,1.367,1.395,0.369,0.25,0.381,0.76,0.521,0.558
-ENG Championship,Fri,2024-02-23,19:45,Coventry City,Preston,1.718,0.865,0.576,0.237,0.187,0.729,0.477,0.475
-ENG Championship,Fri,2024-02-23,20:00,Leeds United,Leicester City,1.207,1.063,0.393,0.285,0.322,0.662,0.396,0.459
-ENG Championship,Sat,2024-02-24,12:30,Hull City,West Brom,1.118,1.216,0.336,0.281,0.383,0.677,0.413,0.474
-ENG Championship,Sat,2024-02-24,15:00,Sheffield Weds,Bristol City,0.795,1.216,0.242,0.298,0.46,0.597,0.326,0.386
-ENG Championship,Sat,2024-02-24,15:00,Southampton,Millwall,2.063,0.881,0.647,0.202,0.151,0.793,0.564,0.512
-ENG Championship,Sat,2024-02-24,15:00,Blackburn,Norwich City,1.463,1.608,0.349,0.239,0.412,0.811,0.592,0.615
-ENG Championship,Sat,2024-02-24,15:00,Sunderland,Swansea City,1.763,1.137,0.52,0.235,0.245,0.786,0.554,0.563
-ENG Championship,Sat,2024-02-24,15:00,Middlesbrough,Plymouth Argyle,2.302,1.547,0.546,0.199,0.255,0.897,0.739,0.708
-ENG Championship,Sat,2024-02-24,15:00,Watford,Huddersfield,1.661,0.99,0.531,0.244,0.225,0.742,0.494,0.509
-ENG Championship,Sat,2024-02-24,15:00,QPR,Rotherham Utd,1.227,0.989,0.416,0.288,0.297,0.65,0.382,0.444
-ENG Championship,Sat,2024-02-24,15:00,Ipswich Town,Birmingham City,2.361,0.996,0.677,0.18,0.143,0.848,0.652,0.571
-ENG Championship,Sat,2024-02-24,15:00,Cardiff City,Stoke City,1.086,0.984,0.375,0.302,0.323,0.613,0.342,0.415
-ENG Championship,Fri,2024-03-01,20:00,West Brom,Coventry City,1.179,1.03,0.392,0.29,0.318,0.648,0.38,0.446
-ENG League 1,Fri,2024-02-23,19:45,Wigan Athletic,Cheltenham,1.596,0.846,0.55,0.253,0.197,0.702,0.441,0.456
-ENG League 1,Sat,2024-02-24,12:00,Cambridge Utd,P'borough Utd,0.978,1.7,0.215,0.242,0.542,0.748,0.501,0.511
-ENG League 1,Sat,2024-02-24,15:00,Bristol Rovers,Carlisle United,1.978,0.853,0.636,0.211,0.153,0.775,0.538,0.496
-ENG League 1,Sat,2024-02-24,15:00,Barnsley,Derby County,1.444,1.234,0.418,0.26,0.321,0.749,0.501,0.543
-ENG League 1,Sat,2024-02-24,15:00,Burton Albion,Northampton,1.457,1.42,0.383,0.251,0.366,0.783,0.549,0.583
-ENG League 1,Sat,2024-02-24,15:00,Stevenage,Wycombe,1.483,0.949,0.495,0.265,0.24,0.7,0.439,0.475
-ENG League 1,Sat,2024-02-24,15:00,Port Vale,Lincoln City,0.883,1.125,0.283,0.307,0.409,0.597,0.325,0.397
-ENG League 1,Sat,2024-02-24,15:00,Reading,Shrewsbury,1.461,0.947,0.489,0.267,0.243,0.695,0.433,0.471
-ENG League 1,Sat,2024-02-24,15:00,Exeter City,Fleetwood Town,1.259,1.091,0.4,0.281,0.318,0.682,0.417,0.477
-ENG League 1,Sat,2024-02-24,15:00,Oxford United,Leyton Orient,1.405,1.033,0.454,0.271,0.276,0.701,0.44,0.487
-ENG League 1,Sat,2024-02-24,15:00,Blackpool,Bolton,1.18,1.311,0.332,0.272,0.395,0.712,0.454,0.507
-ENG League 1,Sat,2024-02-24,15:00,Charlton Ath,Portsmouth,1.279,1.57,0.31,0.25,0.441,0.778,0.542,0.573
-ENG League 1,Tue,2024-02-27,19:45,Derby County,Charlton Ath,2.08,0.992,0.623,0.206,0.171,0.812,0.593,0.551
-ENG League 1,Tue,2024-02-27,19:45,Wycombe,Cheltenham,1.45,0.816,0.519,0.27,0.21,0.662,0.395,0.428
-ENG League 1,Tue,2024-02-27,19:45,Port Vale,Fleetwood Town,1.267,1.205,0.378,0.274,0.348,0.708,0.449,0.504
-ENG League 1,Tue,2024-02-27,19:45,Stevenage,Cambridge Utd,1.676,0.686,0.611,0.24,0.149,0.684,0.42,0.405
-ENG League 1,Tue,2024-02-27,19:45,Lincoln City,Shrewsbury,1.154,0.623,0.485,0.317,0.198,0.532,0.263,0.319
-ENG League 1,Tue,2024-02-27,19:45,Wigan Athletic,Bolton,1.119,1.377,0.304,0.27,0.426,0.713,0.455,0.505
-ENG League 1,Tue,2024-02-27,19:45,Leyton Orient,Blackpool,1.254,1.28,0.359,0.27,0.371,0.721,0.465,0.517
-ENG League 2,Sat,2024-02-24,15:00,Acc'ton Stanley,Crawley Town,1.73,1.107,0.514,0.249,0.237,0.781,0.539,0.556
-ENG League 2,Sat,2024-02-24,15:00,Doncaster,AFC Wimbledon,1.19,1.3,0.332,0.283,0.385,0.717,0.454,0.513
-ENG League 2,Sat,2024-02-24,15:00,Notts County,Crewe Alexandra,2.21,1.777,0.478,0.211,0.312,0.911,0.76,0.743
-ENG League 2,Sat,2024-02-24,15:00,Gillingham,Wrexham,0.922,1.323,0.254,0.293,0.453,0.663,0.389,0.448
-ENG League 2,Sat,2024-02-24,15:00,MK Dons,Newport County,1.718,1.202,0.489,0.249,0.262,0.794,0.559,0.58
-ENG League 2,Sat,2024-02-24,15:00,Barrow,Bradford City,1.036,1.0,0.35,0.319,0.331,0.611,0.333,0.415
-ENG League 2,Sat,2024-02-24,15:00,Sutton United,Colchester Utd,1.263,1.218,0.369,0.284,0.347,0.715,0.451,0.511
-ENG League 2,Sat,2024-02-24,15:00,Mansfield Town,Salford City,2.16,1.108,0.609,0.21,0.181,0.842,0.634,0.597
-ENG League 2,Sat,2024-02-24,15:00,FG Rovers,Tranmere Rovers,0.997,1.61,0.228,0.261,0.511,0.74,0.483,0.511
-ENG League 2,Sat,2024-02-24,15:00,Stockport,Swindon Town,2.181,1.013,0.635,0.205,0.16,0.833,0.619,0.569
-ENG League 2,Sat,2024-02-24,15:00,Morecambe,Grimsby Town,1.891,1.267,0.515,0.235,0.25,0.828,0.611,0.615
-ENG League 2,Sat,2024-02-24,15:00,Harrogate,Walsall,1.35,1.212,0.394,0.278,0.328,0.732,0.472,0.527
-ENG League 2,Tue,2024-02-27,19:45,FG Rovers,Wrexham,1.044,2.266,0.157,0.198,0.644,0.847,0.643,0.585
-ENG League 2,Tue,2024-02-27,19:45,Notts County,Sutton United,2.614,1.291,0.654,0.179,0.167,0.905,0.748,0.675
-ENG League 2,Tue,2024-02-27,19:45,Salford City,Colchester Utd,1.891,1.16,0.539,0.234,0.227,0.814,0.588,0.588
-ENG League 2,Tue,2024-02-27,19:45,Swindon Town,Tranmere Rovers,1.555,1.327,0.422,0.259,0.32,0.788,0.55,0.585
-ENG League 2,Tue,2024-02-27,19:45,Walsall,Acc'ton Stanley,1.31,1.168,0.392,0.284,0.324,0.714,0.45,0.509
-ENG League 2,Tue,2024-02-27,19:45,Harrogate,Newport County,1.456,1.283,0.406,0.267,0.327,0.764,0.516,0.56
-ENG Conference,Sat,2024-02-24,12:30,Eastleigh,Bromley,1.267,1.631,0.293,0.252,0.455,0.789,0.554,0.582
-ENG Conference,Sat,2024-02-24,15:00,Solihull Moors,Hartlepool Utd,1.996,1.384,0.514,0.224,0.262,0.854,0.656,0.651
-ENG Conference,Sat,2024-02-24,15:00,Barnet,York City,1.926,1.101,0.562,0.228,0.21,0.809,0.583,0.574
-ENG Conference,Sat,2024-02-24,15:00,Gateshead,Oxford City,2.746,1.114,0.714,0.16,0.126,0.9,0.741,0.631
-ENG Conference,Sat,2024-02-24,15:00,Woking,Wealdstone,1.441,0.944,0.481,0.277,0.242,0.693,0.426,0.471
-ENG Conference,Sat,2024-02-24,15:00,Boreham Wood,Fylde,1.588,1.28,0.441,0.255,0.304,0.785,0.546,0.579
-ENG Conference,Sat,2024-02-24,15:00,Oldham Athletic,Kidderminster,1.454,0.685,0.552,0.277,0.171,0.635,0.361,0.385
-ENG Conference,Sat,2024-02-24,15:00,Dorking Wand.,Ebbsfleet Utd,1.668,1.372,0.441,0.247,0.312,0.811,0.586,0.61
-ENG Conference,Sat,2024-02-24,15:00,Dag & Red,FC Halifax Town,1.132,1.039,0.372,0.303,0.325,0.644,0.37,0.443
-ENG Conference,Sat,2024-02-24,15:00,Chesterfield,Rochdale,2.547,1.144,0.674,0.177,0.149,0.886,0.713,0.631
-ENG Conference,Sat,2024-02-24,15:00,Altrincham,Maidenhead Utd,1.784,0.98,0.558,0.24,0.201,0.767,0.522,0.524
-ENG Conference,Sat,2024-02-24,15:00,Southend United,Aldershot Town,1.748,1.009,0.543,0.244,0.213,0.766,0.52,0.529
-ENG Conference,Tue,2024-02-27,19:45,Woking,Gateshead,1.257,1.206,0.371,0.282,0.347,0.71,0.447,0.506
-ENG Conference,Tue,2024-02-27,19:45,Rochdale,Wealdstone,1.775,1.304,0.481,0.241,0.278,0.816,0.594,0.609
-ENG Conference,Tue,2024-02-27,19:45,Barnet,Chesterfield,1.632,1.898,0.332,0.227,0.441,0.871,0.685,0.687
-ENG Conference,Tue,2024-02-27,19:45,Eastleigh,Oldham Athletic,1.443,1.504,0.36,0.254,0.386,0.797,0.565,0.598
-ENG Conference,Tue,2024-02-27,19:45,Southend United,Altrincham,1.546,1.067,0.479,0.264,0.257,0.74,0.485,0.521
-SCO Premier League,Sat,2024-02-24,15:00,St Mirren,St Johnstone,1.758,0.609,0.679,0.17,0.151,0.657,0.422,0.35
-SCO Premier League,Sat,2024-02-24,15:00,Hibernian,Dundee,2.207,1.703,0.516,0.163,0.321,0.881,0.748,0.708
-SCO Premier League,Sat,2024-02-24,15:00,Kilmarnock,Aberdeen,1.499,0.889,0.548,0.195,0.257,0.656,0.427,0.424
-SCO Premier League,Sat,2024-02-24,15:00,Ross County,Livingston,0.97,0.647,0.453,0.277,0.27,0.447,0.221,0.262
-SCO Premier League,Sat,2024-02-24,15:00,Rangers,Hearts,2.429,0.654,0.786,0.114,0.1,0.793,0.595,0.418
-SCO Premier League,Sun,2024-02-25,12:00,Motherwell,Celtic,1.052,2.336,0.178,0.139,0.683,0.829,0.658,0.565
-SCO Premier League,Tue,2024-02-27,20:00,Ross County,St Mirren,0.884,1.217,0.304,0.223,0.474,0.585,0.351,0.378
-SCO Premier League,Wed,2024-02-28,19:45,Kilmarnock,Rangers,0.702,1.782,0.17,0.169,0.661,0.681,0.452,0.391
-SCO Premier League,Wed,2024-02-28,19:45,Hearts,Hibernian,1.938,1.153,0.584,0.165,0.251,0.787,0.597,0.558
-SCO Premier League,Wed,2024-02-28,19:45,Celtic,Dundee,3.776,0.836,0.89,0.06,0.05,0.936,0.839,0.545
-SCO Premier League,Wed,2024-02-28,19:45,Aberdeen,St Johnstone,1.625,0.729,0.619,0.185,0.196,0.651,0.418,0.385
-SCO Premier League,Wed,2024-02-28,20:00,Livingston,Motherwell,0.826,1.415,0.253,0.205,0.542,0.622,0.388,0.392
-SCO Division 1,Fri,2024-02-23,19:45,Partick Thistle,Dunfermline,1.92,1.127,0.55,0.238,0.212,0.816,0.587,0.585
-SCO Division 1,Sat,2024-02-24,15:00,Dundee United,Queen's Park FC,2.379,0.639,0.756,0.169,0.075,0.81,0.581,0.434
-SCO Division 1,Sat,2024-02-24,15:00,Ayr United,Raith Rovers,1.614,1.561,0.385,0.253,0.362,0.834,0.615,0.641
-SCO Division 1,Sat,2024-02-24,15:00,Gr'nock Morton,Airdrieonians,1.231,0.854,0.439,0.315,0.246,0.627,0.346,0.417
-SCO Division 1,Sat,2024-02-24,15:00,Arbroath FC,Inverness CT,0.855,1.379,0.222,0.296,0.481,0.664,0.386,0.44
-SCO Division 1,Tue,2024-02-27,19:45,Dundee United,Airdrieonians,1.69,0.421,0.682,0.238,0.08,0.63,0.353,0.287
-SCO Division 1,Tue,2024-02-27,19:45,Ayr United,Partick Thistle,1.664,1.883,0.338,0.235,0.427,0.876,0.688,0.695
-SCO Division 1,Tue,2024-02-27,19:45,Inverness CT,Dunfermline,1.341,0.976,0.441,0.298,0.262,0.683,0.408,0.471
-SCO Division 1,Tue,2024-02-27,19:45,Raith Rovers,Gr'nock Morton,1.375,1.378,0.362,0.275,0.363,0.771,0.519,0.569
-SCO Division 1,Tue,2024-02-27,19:45,Queen's Park FC,Arbroath FC,1.828,1.015,0.555,0.246,0.199,0.785,0.541,0.544
-SCO Division 1,Fri,2024-03-01,19:45,Arbroath FC,Raith Rovers,0.958,1.637,0.211,0.266,0.523,0.741,0.48,0.506
-FRA Ligue 1,Fri,2024-02-23,21:00,Metz,Lyon,0.917,1.454,0.221,0.3,0.479,0.702,0.423,0.477
-FRA Ligue 1,Sat,2024-02-24,17:00,Lorient,Nantes,1.638,1.128,0.477,0.277,0.247,0.779,0.522,0.56
-FRA Ligue 1,Sat,2024-02-24,21:00,Strasbourg,Brest,1.142,1.246,0.319,0.312,0.369,0.706,0.427,0.503
-FRA Ligue 1,Sun,2024-02-25,13:00,Lens,Monaco,1.977,1.044,0.577,0.242,0.181,0.818,0.582,0.572
-FRA Ligue 1,Sun,2024-02-25,15:00,Toulouse,Lille,0.951,1.505,0.222,0.293,0.485,0.72,0.445,0.494
-FRA Ligue 1,Sun,2024-02-25,15:00,Nice,Clermont Foot,1.287,0.562,0.529,0.324,0.147,0.567,0.283,0.327
-FRA Ligue 1,Sun,2024-02-25,15:00,Le Havre,Reims,1.149,0.999,0.373,0.331,0.297,0.651,0.363,0.449
-FRA Ligue 1,Sun,2024-02-25,17:05,Paris S-G,Rennes,2.141,1.134,0.591,0.228,0.181,0.851,0.635,0.611
-FRA Ligue 1,Sun,2024-02-25,20:45,Marseille,Montpellier,1.788,1.078,0.525,0.262,0.213,0.795,0.546,0.564
-FRA Ligue 1,Fri,2024-03-01,21:00,Monaco,Paris S-G,1.537,2.462,0.223,0.207,0.57,0.918,0.762,0.727
-FRA Ligue 2,Sat,2024-02-24,15:00,Saint-Étienne,Annecy,1.794,0.939,0.577,0.227,0.197,0.755,0.514,0.506
-FRA Ligue 2,Sat,2024-02-24,19:00,Auxerre,Bastia,2.168,0.932,0.657,0.191,0.152,0.814,0.599,0.535
-FRA Ligue 2,Sat,2024-02-24,19:00,Quevilly-Rouen,Paris FC,1.431,1.247,0.415,0.254,0.331,0.745,0.501,0.54
-FRA Ligue 2,Sat,2024-02-24,19:00,US Concarneau,Stade Laval,1.153,1.012,0.391,0.289,0.32,0.635,0.368,0.433
-FRA Ligue 2,Sat,2024-02-24,19:00,Grenoble,Pau FC,1.436,0.895,0.499,0.264,0.237,0.674,0.412,0.449
-FRA Ligue 2,Sat,2024-02-24,19:00,Ajaccio,Amiens,1.113,0.702,0.454,0.313,0.232,0.539,0.273,0.336
-FRA Ligue 2,Sat,2024-02-24,19:00,Valenciennes,Rodez Aveyron,1.089,1.305,0.312,0.271,0.417,0.688,0.429,0.481
-FRA Ligue 2,Sat,2024-02-24,19:00,Troyes,Dunkerque,1.423,0.886,0.498,0.266,0.236,0.669,0.406,0.444
-FRA Ligue 2,Sat,2024-02-24,19:00,Bordeaux,Guingamp,1.319,0.945,0.455,0.276,0.27,0.659,0.395,0.446
-FRA Ligue 2,Mon,2024-02-26,20:45,Caen,Angers,1.248,1.391,0.338,0.257,0.405,0.738,0.491,0.533
-DEU Bundesliga 1,Fri,2024-02-23,20:30,Leverkusen,Mainz 05,2.462,0.696,0.753,0.17,0.077,0.832,0.611,0.467
-DEU Bundesliga 1,Sat,2024-02-24,15:30,Union Berlin,Heidenheim,1.484,0.992,0.472,0.29,0.239,0.722,0.45,0.501
-DEU Bundesliga 1,Sat,2024-02-24,15:30,Werder Bremen,Darmstadt 98,2.472,0.95,0.698,0.185,0.117,0.864,0.665,0.57
-DEU Bundesliga 1,Sat,2024-02-24,15:30,M'Gladbach,Bochum,2.252,1.106,0.622,0.213,0.165,0.858,0.652,0.609
-DEU Bundesliga 1,Sat,2024-02-24,15:30,Stuttgart,Köln,2.075,0.881,0.639,0.222,0.139,0.805,0.567,0.523
-DEU Bundesliga 1,Sat,2024-02-24,18:30,Bayern Munich,RB Leipzig,2.475,1.202,0.644,0.196,0.16,0.89,0.711,0.649
-DEU Bundesliga 1,Sun,2024-02-25,15:30,Eint Frankfurt,Wolfsburg,1.734,1.081,0.514,0.263,0.223,0.784,0.534,0.557
-DEU Bundesliga 1,Sun,2024-02-25,17:30,Dortmund,Hoffenheim,3.025,1.075,0.758,0.146,0.096,0.922,0.776,0.633
-DEU Bundesliga 1,Sun,2024-02-25,19:30,Augsburg,Freiburg,1.445,1.307,0.39,0.282,0.328,0.774,0.519,0.571
-DEU Bundesliga 1,Fri,2024-03-01,20:30,Freiburg,Bayern Munich,1.171,2.065,0.2,0.232,0.569,0.844,0.628,0.613
-DEU Bundesliga 2,Fri,2024-02-23,18:30,Holstein Kiel,St. Pauli,1.35,1.539,0.336,0.244,0.42,0.782,0.551,0.58
-DEU Bundesliga 2,Fri,2024-02-23,18:30,Wehen,Paderborn 07,1.204,1.281,0.348,0.268,0.384,0.708,0.452,0.504
-DEU Bundesliga 2,Sat,2024-02-24,13:00,Braunschweig,Hertha BSC,1.367,1.82,0.291,0.226,0.483,0.826,0.617,0.623
-DEU Bundesliga 2,Sat,2024-02-24,13:00,Osnabrück,Hannover 96,0.947,1.984,0.174,0.209,0.616,0.789,0.561,0.527
-DEU Bundesliga 2,Sat,2024-02-24,13:00,Kaiserslautern,Karlsruher,1.84,1.72,0.415,0.218,0.366,0.869,0.69,0.69
-DEU Bundesliga 2,Sat,2024-02-24,20:30,Magdeburg,Schalke 04,2.105,1.353,0.548,0.207,0.244,0.859,0.671,0.65
-DEU Bundesliga 2,Sun,2024-02-25,13:30,Hamburger SV,Elversberg,2.53,1.315,0.639,0.177,0.184,0.896,0.738,0.672
-DEU Bundesliga 2,Sun,2024-02-25,13:30,Düsseldorf,Hansa Rostock,2.121,0.762,0.689,0.188,0.123,0.782,0.55,0.468
-DEU Bundesliga 2,Sun,2024-02-25,13:30,Greuther Fürth,Nürnberg,1.761,0.91,0.576,0.231,0.193,0.745,0.499,0.493
-DEU Bundesliga 2,Fri,2024-03-01,18:30,Hertha BSC,Holstein Kiel,2.206,1.694,0.498,0.202,0.3,0.9,0.747,0.725
-DEU Bundesliga 2,Fri,2024-03-01,18:30,Schalke 04,St. Pauli,1.148,1.866,0.234,0.224,0.543,0.802,0.58,0.576
-ITA Serie A,Fri,2024-02-23,20:45,Bologna,Hellas Verona,1.787,0.667,0.638,0.233,0.129,0.708,0.444,0.41
-ITA Serie A,Sat,2024-02-24,15:00,Sassuolo,Empoli,1.537,1.05,0.48,0.267,0.253,0.736,0.478,0.516
-ITA Serie A,Sat,2024-02-24,18:00,Salernitana,Monza,1.206,1.405,0.317,0.273,0.41,0.741,0.484,0.534
-ITA Serie A,Sat,2024-02-24,20:45,Genoa,Udinese,1.252,0.951,0.426,0.299,0.275,0.652,0.378,0.444
-ITA Serie A,Sun,2024-02-25,12:30,Juventus,Frosinone,2.59,0.708,0.775,0.149,0.076,0.844,0.64,0.473
-ITA Serie A,Sun,2024-02-25,15:00,Cagliari,Napoli,0.793,2.088,0.127,0.204,0.669,0.787,0.55,0.484
-ITA Serie A,Sun,2024-02-25,18:00,Lecce,Inter,0.669,1.967,0.113,0.211,0.677,0.744,0.491,0.424
-ITA Serie A,Sun,2024-02-25,20:45,Milan,Atalanta,1.834,1.482,0.456,0.235,0.309,0.848,0.644,0.654
-ITA Serie A,Mon,2024-02-26,18:30,Roma,Torino,1.252,0.757,0.474,0.307,0.219,0.602,0.326,0.385
-ITA Serie A,Mon,2024-02-26,20:45,Fiorentina,Lazio,1.144,1.074,0.366,0.302,0.332,0.656,0.382,0.455
-ITA Serie A,Wed,2024-02-28,18:00,Sassuolo,Napoli,1.058,1.952,0.196,0.227,0.577,0.807,0.579,0.565
-ITA Serie A,Wed,2024-02-28,20:45,Inter,Atalanta,2.142,1.035,0.622,0.209,0.169,0.83,0.615,0.573
-ITA Serie A,Fri,2024-03-01,20:45,Lazio,Milan,1.439,1.142,0.433,0.273,0.294,0.735,0.477,0.525
-ITA Serie B,Fri,2024-02-23,20:30,Cosenza,Sampdoria,1.371,1.112,0.416,0.292,0.292,0.721,0.452,0.513
-ITA Serie B,Sat,2024-02-24,14:00,Cremonese,Palermo,1.305,0.803,0.472,0.31,0.218,0.634,0.352,0.414
-ITA Serie B,Sat,2024-02-24,14:00,Cittadella,Catanzaro,1.455,1.288,0.4,0.277,0.323,0.77,0.517,0.566
-ITA Serie B,Sat,2024-02-24,14:00,Südtirol,Bari,1.059,1.08,0.334,0.321,0.345,0.643,0.361,0.444
-ITA Serie B,Sat,2024-02-24,14:00,Brescia,Reggiana,1.173,1.047,0.375,0.314,0.312,0.663,0.383,0.461
-ITA Serie B,Sat,2024-02-24,14:00,FeralpiSalò,Ascoli,1.115,1.246,0.316,0.303,0.381,0.695,0.42,0.491
-ITA Serie B,Sat,2024-02-24,16:15,Pisa,Venezia,1.389,1.386,0.363,0.276,0.361,0.776,0.525,0.574
-ITA Serie B,Sat,2024-02-24,16:15,Ternana,Calcio Lecco 1912,1.948,1.101,0.561,0.237,0.201,0.818,0.588,0.582
-ITA Serie B,Sat,2024-02-24,16:15,Como,Parma,1.169,1.37,0.308,0.289,0.403,0.732,0.466,0.526
-ITA Serie B,Sun,2024-02-25,16:15,Modena,Spezia,1.627,0.869,0.542,0.269,0.189,0.723,0.455,0.477
-ITA Serie B,Tue,2024-02-27,18:15,Reggiana,Südtirol,1.12,1.093,0.349,0.315,0.336,0.661,0.381,0.46
-ITA Serie B,Tue,2024-02-27,18:15,Ascoli,Brescia,1.149,0.917,0.398,0.324,0.278,0.624,0.341,0.422
-ITA Serie B,Tue,2024-02-27,20:30,Parma,Cosenza,1.671,0.744,0.586,0.261,0.154,0.705,0.434,0.437
-ITA Serie B,Tue,2024-02-27,20:30,Palermo,Ternana,1.85,1.011,0.56,0.246,0.194,0.789,0.545,0.546
-ITA Serie B,Tue,2024-02-27,20:30,Catanzaro,Bari,1.386,1.463,0.347,0.272,0.381,0.788,0.542,0.587
-ITA Serie B,Tue,2024-02-27,20:30,Sampdoria,Cremonese,0.768,1.401,0.194,0.297,0.509,0.649,0.369,0.415
-ITA Serie B,Tue,2024-02-27,20:30,Calcio Lecco 1912,Como,1.133,1.934,0.21,0.239,0.551,0.82,0.592,0.589
-ITA Serie B,Wed,2024-02-28,20:30,Spezia,FeralpiSalò,1.241,1.156,0.37,0.301,0.329,0.703,0.429,0.499
-ITA Serie B,Wed,2024-02-28,20:30,Venezia,Cittadella,1.655,1.027,0.51,0.266,0.224,0.759,0.502,0.53
-ITA Serie B,Wed,2024-02-28,20:30,Pisa,Modena,1.459,1.071,0.449,0.285,0.266,0.73,0.464,0.516
-ESP La Liga,Fri,2024-02-23,21:00,Real Sociedad,Villarreal,1.751,0.935,0.562,0.243,0.195,0.753,0.503,0.506
-ESP La Liga,Sat,2024-02-24,14:00,Granada,Valencia,1.145,1.423,0.299,0.272,0.429,0.731,0.474,0.522
-ESP La Liga,Sat,2024-02-24,16:15,Barcelona,Getafe,2.079,0.719,0.687,0.199,0.114,0.772,0.53,0.452
-ESP La Liga,Sat,2024-02-24,18:30,Alavés,Mallorca,1.042,0.759,0.41,0.333,0.256,0.542,0.27,0.349
-ESP La Liga,Sat,2024-02-24,21:00,Almería,Atlético Madrid,0.99,2.341,0.141,0.187,0.672,0.848,0.647,0.571
-ESP La Liga,Sun,2024-02-25,14:00,Cádiz,Celta Vigo,0.882,1.036,0.296,0.325,0.379,0.576,0.301,0.383
-ESP La Liga,Sun,2024-02-25,16:15,Betis,Athletic Club,1.063,1.032,0.353,0.31,0.337,0.624,0.349,0.426
-ESP La Liga,Sun,2024-02-25,17:30,Las Palmas,Osasuna,1.153,0.693,0.463,0.321,0.217,0.555,0.282,0.347
-ESP La Liga,Sun,2024-02-25,21:00,Real Madrid,Sevilla,2.557,0.682,0.776,0.149,0.075,0.836,0.628,0.459
-ESP La Liga,Mon,2024-02-26,21:00,Girona,Rayo Vallecano,2.215,0.965,0.654,0.197,0.149,0.829,0.616,0.555
-ESP La Liga,Fri,2024-03-01,21:00,Celta Vigo,Almería,1.82,1.096,0.539,0.237,0.223,0.792,0.558,0.562
-ESP La Liga Segunda,Fri,2024-02-23,20:30,Valladolid,Oviedo,0.923,0.713,0.374,0.37,0.255,0.499,0.226,0.32
-ESP La Liga Segunda,Sat,2024-02-24,16:15,Racing Sant,Leganés,1.099,0.978,0.368,0.327,0.305,0.627,0.344,0.429
-ESP La Liga Segunda,Sat,2024-02-24,18:30,Eibar,Espanyol,1.636,1.14,0.478,0.268,0.254,0.776,0.525,0.559
-ESP La Liga Segunda,Sat,2024-02-24,18:30,Villarreal B,Zaragoza,1.158,1.056,0.368,0.316,0.317,0.662,0.381,0.46
-ESP La Liga Segunda,Sat,2024-02-24,21:00,Levante,FC Andorra,1.37,0.688,0.521,0.303,0.176,0.621,0.339,0.383
-ESP La Liga Segunda,Sun,2024-02-25,14:00,Eldense,Racing Ferrol,1.608,1.286,0.438,0.267,0.295,0.796,0.553,0.59
-ESP La Liga Segunda,Sun,2024-02-25,16:15,Burgos,Sporting Gijón,1.182,0.94,0.401,0.32,0.278,0.639,0.357,0.436
-ESP La Liga Segunda,Sun,2024-02-25,16:15,Alcorcón,Tenerife,0.793,0.878,0.291,0.369,0.34,0.51,0.235,0.333
-ESP La Liga Segunda,Sun,2024-02-25,18:30,Cartagena,Elche,0.998,0.886,0.358,0.345,0.297,0.575,0.292,0.384
-ESP La Liga Segunda,Sun,2024-02-25,21:00,Amorebieta,Albacete,1.008,1.283,0.279,0.306,0.415,0.68,0.402,0.472
-ESP La Liga Segunda,Mon,2024-02-26,20:30,CD Mirandés,Huesca,1.091,0.758,0.418,0.342,0.239,0.564,0.283,0.366
-ESP La Liga Segunda,Fri,2024-03-01,20:30,Sporting Gijón,Albacete,1.578,1.023,0.491,0.275,0.234,0.744,0.482,0.52
-GRC Super League,Sat,2024-02-24,19:00,PAS Lamia,AEK Athens,0.563,2.226,0.064,0.196,0.74,0.782,0.528,0.399
-GRC Super League,Sat,2024-02-24,19:30,Panserraikos,Atromitos,1.43,1.163,0.408,0.309,0.283,0.755,0.48,0.546
-GRC Super League,Sun,2024-02-25,16:30,PAS Giannina,OFI Crete,1.156,1.079,0.35,0.339,0.312,0.679,0.387,0.478
-GRC Super League,Sun,2024-02-25,17:00,Panetolikos,PAOK,0.697,2.434,0.073,0.184,0.743,0.834,0.606,0.472
-GRC Super League,Sun,2024-02-25,18:00,Olympiacos,Asteras Tripoli,2.559,0.496,0.808,0.151,0.041,0.82,0.589,0.372
-GRC Super League,Sun,2024-02-25,19:30,Aris,Volos NFC,2.229,0.709,0.704,0.208,0.088,0.807,0.563,0.469
-GRC Super League,Sun,2024-02-25,20:00,Panathinaikos,AO Kifisia,3.23,0.395,0.898,0.086,0.016,0.883,0.702,0.32
-GRC Super League,Wed,2024-02-28,15:00,Volos NFC,OFI Crete,1.222,1.105,0.363,0.331,0.306,0.7,0.411,0.497
-GRC Super League,Wed,2024-02-28,15:00,Asteras Tripoli,AO Kifisia,1.749,0.923,0.547,0.277,0.176,0.767,0.5,0.519
-GRC Super League,Wed,2024-02-28,17:00,Panetolikos,Olympiacos,0.588,2.487,0.055,0.168,0.777,0.825,0.593,0.42
-GRC Super League,Wed,2024-02-28,17:00,Atromitos,PAS Lamia,1.433,1.068,0.43,0.312,0.258,0.737,0.456,0.523
-GRC Super League,Wed,2024-02-28,19:00,AEK Athens,PAS Giannina,2.914,0.392,0.871,0.108,0.021,0.85,0.642,0.314
-GRC Super League,Wed,2024-02-28,20:00,Panserraikos,PAOK,0.865,2.345,0.106,0.205,0.689,0.846,0.622,0.539
-GRC Super League,Wed,2024-02-28,21:00,Panathinaikos,Aris,1.62,0.616,0.598,0.284,0.119,0.674,0.387,0.389
-TUR Super Lig,Sun,2024-02-25,,Galatasaray,Antalyaspor,2.22,0.514,0.759,0.177,0.064,0.764,0.515,0.365
-TUR Super Lig,Sun,2024-02-25,,Gaziantep FK,Başakşehir,0.857,1.465,0.208,0.289,0.503,0.686,0.41,0.454
-TUR Super Lig,Sun,2024-02-25,,İstanbulspor,Beşiktaş,0.949,1.95,0.168,0.234,0.597,0.795,0.554,0.535
-TUR Super Lig,Sun,2024-02-25,,Kayserispor,Ankaragücü,1.369,1.138,0.409,0.291,0.299,0.726,0.458,0.519
-TUR Super Lig,Sun,2024-02-25,,Konyaspor,Hatayspor,1.645,0.709,0.588,0.264,0.148,0.692,0.418,0.42
-TUR Super Lig,Sun,2024-02-25,,Samsunspor,Rizespor,1.252,0.9,0.432,0.314,0.254,0.646,0.364,0.436
-TUR Super Lig,Sun,2024-02-25,,Fatih Karagümrük,Alanyaspor,2.182,1.253,0.577,0.219,0.204,0.865,0.667,0.642
-TUR Super Lig,Sun,2024-02-25,,Trabzonspor,Adana Demirspor,1.779,1.576,0.42,0.245,0.335,0.857,0.651,0.669
-TUR Super Lig,Sun,2024-02-25,,Fenerbahçe,Kasımpaşa,3.428,1.006,0.82,0.113,0.067,0.939,0.819,0.618
-TUR Super Lig,Sun,2024-02-25,,Sivasspor,Pendikspor,1.83,1.077,0.54,0.249,0.211,0.797,0.556,0.564
-NLD Eredivisie,Fri,2024-02-23,20:00,Utrecht,Heracles Almelo,2.462,1.125,0.643,0.224,0.133,0.896,0.695,0.641
-NLD Eredivisie,Sat,2024-02-24,18:45,RKC Waalwijk,Fortuna Sittard,1.487,1.065,0.431,0.335,0.234,0.761,0.469,0.545
-NLD Eredivisie,Sat,2024-02-24,20:00,Zwolle,PSV Eindhoven,0.848,2.457,0.086,0.21,0.703,0.865,0.642,0.546
-NLD Eredivisie,Sat,2024-02-24,21:00,NEC Nijmegen,Sparta R'dam,1.284,1.272,0.331,0.344,0.325,0.763,0.47,0.559
-NLD Eredivisie,Sun,2024-02-25,12:15,Excelsior,Vitesse,1.783,1.129,0.493,0.3,0.207,0.821,0.557,0.596
-NLD Eredivisie,Sun,2024-02-25,14:30,Twente,Go Ahead Eag,2.117,0.691,0.677,0.241,0.082,0.797,0.532,0.466
-NLD Eredivisie,Sun,2024-02-25,14:30,Almere City,Feyenoord,0.673,2.149,0.077,0.235,0.688,0.799,0.536,0.459
-NLD Eredivisie,Sun,2024-02-25,16:45,AZ Alkmaar,Ajax,1.992,1.544,0.455,0.271,0.274,0.895,0.686,0.707
-NLD Eredivisie,Sun,2024-02-25,20:00,Volendam,Heerenveen,1.352,1.461,0.313,0.324,0.363,0.807,0.534,0.606
-NLD Eredivisie,Fri,2024-03-01,20:00,Volendam,NEC Nijmegen,1.171,1.691,0.23,0.309,0.461,0.814,0.545,0.597
-PRT Liga 1,Fri,2024-02-23,20:15,Arouca,Famalicão,1.377,0.85,0.535,0.191,0.274,0.61,0.385,0.386
-PRT Liga 1,Sat,2024-02-24,15:30,Farense,Moreirense,1.551,1.09,0.52,0.172,0.308,0.7,0.492,0.482
-PRT Liga 1,Sat,2024-02-24,18:00,Estrela,Chaves,1.698,1.076,0.558,0.164,0.279,0.726,0.524,0.5
-PRT Liga 1,Sat,2024-02-24,20:30,Vitória,Casa Pia,1.35,0.564,0.6,0.207,0.193,0.532,0.3,0.282
-PRT Liga 1,Sun,2024-02-25,15:30,Vizela,Estoril,1.112,1.224,0.377,0.192,0.431,0.633,0.413,0.429
-PRT Liga 1,Sun,2024-02-25,18:00,Benfica,Portimonense,3.315,0.396,0.921,0.047,0.032,0.874,0.716,0.304
-PRT Liga 1,Sun,2024-02-25,18:00,Gil Vicente FC,Porto,0.841,1.583,0.239,0.173,0.588,0.657,0.437,0.412
-PRT Liga 1,Sun,2024-02-25,20:30,Rio Ave,Sporting CP,0.783,1.916,0.18,0.145,0.675,0.717,0.506,0.429
-PRT Liga 1,Mon,2024-02-26,20:15,Boavista,Braga,1.525,2.653,0.227,0.135,0.638,0.9,0.787,0.706
+ENG Premier League,Sat,2024-03-30,12:30,Newcastle Utd,West Ham,2.052,0.827,0.687,0.144,0.17,0.754,0.549,0.462
+ENG Premier League,Sat,2024-03-30,15:00,Bournemouth,Everton,1.215,0.97,0.456,0.211,0.333,0.602,0.373,0.397
+ENG Premier League,Sat,2024-03-30,15:00,Tottenham,Luton Town,2.499,1.113,0.698,0.129,0.173,0.853,0.699,0.594
+ENG Premier League,Sat,2024-03-30,15:00,Nott'ham Forest,Crystal Palace,1.345,1.022,0.48,0.198,0.323,0.646,0.422,0.435
+ENG Premier League,Sat,2024-03-30,15:00,Sheffield Utd,Fulham,0.85,1.995,0.181,0.149,0.67,0.747,0.541,0.465
+ENG Premier League,Sat,2024-03-30,15:00,Chelsea,Burnley,1.851,0.748,0.667,0.158,0.176,0.702,0.481,0.413
+ENG Premier League,Sat,2024-03-30,17:30,Aston Villa,Wolves,2.281,1.036,0.679,0.137,0.184,0.818,0.644,0.554
+ENG Premier League,Sat,2024-03-30,20:00,Brentford,Manchester Utd,1.45,1.202,0.465,0.185,0.35,0.706,0.494,0.499
+ENG Premier League,Sun,2024-03-31,14:00,Liverpool,Brighton,2.843,1.156,0.74,0.115,0.145,0.89,0.762,0.628
+ENG Premier League,Sun,2024-03-31,16:30,Manchester City,Arsenal,2.263,1.291,0.618,0.147,0.235,0.845,0.689,0.625
+ENG Premier League,Tue,2024-04-02,19:45,Bournemouth,Crystal Palace,1.095,1.063,0.401,0.215,0.385,0.595,0.366,0.395
+ENG Premier League,Tue,2024-04-02,19:45,West Ham,Tottenham,1.268,1.356,0.385,0.188,0.426,0.7,0.487,0.496
+ENG Premier League,Tue,2024-04-02,19:45,Nott'ham Forest,Fulham,1.285,1.205,0.422,0.194,0.384,0.672,0.454,0.468
+ENG Premier League,Tue,2024-04-02,19:45,Arsenal,Luton Town,3.846,0.911,0.886,0.06,0.054,0.942,0.853,0.576
+ENG Premier League,Tue,2024-04-02,19:45,Brentford,Brighton,2.13,1.674,0.509,0.161,0.33,0.869,0.732,0.692
+ENG Premier League,Tue,2024-04-02,19:45,Burnley,Wolves,1.33,1.533,0.365,0.179,0.456,0.745,0.545,0.542
+ENG Premier League,Wed,2024-04-03,19:45,Newcastle Utd,Everton,2.069,0.744,0.71,0.14,0.151,0.744,0.534,0.431
+ENG Premier League,Wed,2024-04-03,19:45,Chelsea,Manchester Utd,1.073,1.047,0.398,0.218,0.385,0.586,0.356,0.387
+ENG Premier League,Wed,2024-04-03,20:00,Liverpool,Sheffield Utd,4.453,0.533,0.957,0.026,0.017,0.954,0.874,0.403
+ENG Premier League,Wed,2024-04-03,20:00,Manchester City,Aston Villa,2.529,0.867,0.756,0.115,0.129,0.831,0.659,0.512
+ENG Premier League,Sat,2024-04-06,15:00,Luton Town,Bournemouth,1.685,1.248,0.51,0.173,0.317,0.757,0.562,0.547
+ENG Premier League,Sat,2024-04-06,15:00,Brighton,Arsenal,1.826,2.527,0.295,0.153,0.552,0.913,0.809,0.754
+ENG Premier League,Sat,2024-04-06,15:00,Wolves,West Ham,1.439,1.105,0.484,0.188,0.327,0.684,0.467,0.473
+ENG Premier League,Sat,2024-04-06,15:00,Tottenham,Nott'ham Forest,2.072,1.165,0.611,0.153,0.237,0.805,0.628,0.573
+ENG Premier League,Sat,2024-04-06,15:00,Fulham,Newcastle Utd,1.282,1.336,0.393,0.188,0.418,0.699,0.486,0.495
+ENG Premier League,Sat,2024-04-06,15:00,Everton,Burnley,1.544,0.824,0.579,0.186,0.236,0.649,0.422,0.406
+ENG Premier League,Sat,2024-04-06,15:00,Sheffield Utd,Chelsea,0.896,1.852,0.209,0.16,0.63,0.728,0.518,0.467
+ENG Premier League,Sat,2024-04-06,15:00,Manchester Utd,Liverpool,1.107,1.451,0.326,0.188,0.487,0.687,0.471,0.476
+ENG Premier League,Sat,2024-04-06,15:00,Aston Villa,Brentford,1.964,1.266,0.566,0.16,0.274,0.803,0.626,0.588
+ENG Premier League,Sat,2024-04-06,15:00,Crystal Palace,Manchester City,0.736,1.795,0.18,0.162,0.658,0.688,0.464,0.403
+ENG Championship,Mon,2024-04-01,15:00,Stoke City,Huddersfield,1.348,0.961,0.457,0.275,0.268,0.671,0.406,0.456
+ENG Championship,Mon,2024-04-01,15:00,Swansea City,QPR,1.643,0.979,0.53,0.245,0.226,0.736,0.487,0.503
+ENG Championship,Mon,2024-04-01,15:00,Plymouth Argyle,Bristol City,1.382,1.244,0.402,0.26,0.338,0.737,0.488,0.532
+ENG Championship,Mon,2024-04-01,15:00,Middlesbrough,Sheffield Weds,2.038,0.749,0.675,0.197,0.128,0.766,0.527,0.458
+ENG Championship,Mon,2024-04-01,15:00,Rotherham Utd,Millwall,0.921,1.27,0.27,0.285,0.445,0.642,0.375,0.432
+ENG Championship,Mon,2024-04-01,15:00,Ipswich Town,Southampton,2.358,1.793,0.508,0.195,0.296,0.919,0.783,0.754
+ENG Championship,Mon,2024-04-01,15:00,Sunderland,Blackburn,1.671,0.997,0.532,0.242,0.226,0.745,0.499,0.512
+ENG Championship,Mon,2024-04-01,15:00,Birmingham City,Preston,1.243,1.199,0.374,0.272,0.353,0.7,0.441,0.496
+ENG Championship,Mon,2024-04-01,15:00,Leicester City,Norwich City,2.152,0.981,0.642,0.196,0.162,0.819,0.606,0.552
+ENG Championship,Mon,2024-04-01,15:00,West Brom,Watford,1.553,0.943,0.516,0.254,0.23,0.711,0.455,0.481
+ENG Championship,Mon,2024-04-01,15:00,Coventry City,Cardiff City,1.629,0.773,0.579,0.245,0.177,0.691,0.431,0.432
+ENG Championship,Mon,2024-04-01,15:00,Leeds United,Hull City,1.982,0.622,0.696,0.196,0.107,0.733,0.483,0.399
+ENG Championship,Sat,2024-04-06,15:00,Coventry City,Leeds United,0.883,1.396,0.238,0.272,0.49,0.664,0.398,0.441
+ENG Championship,Sat,2024-04-06,15:00,Watford,Preston,1.511,1.091,0.47,0.256,0.274,0.732,0.482,0.517
+ENG Championship,Sat,2024-04-06,15:00,Huddersfield,Millwall,1.1,1.131,0.348,0.287,0.364,0.652,0.386,0.451
+ENG Championship,Sat,2024-04-06,15:00,Rotherham Utd,Plymouth Argyle,1.19,1.651,0.276,0.242,0.482,0.775,0.54,0.562
+ENG Championship,Sat,2024-04-06,15:00,Norwich City,Ipswich Town,1.662,1.929,0.337,0.217,0.446,0.873,0.696,0.692
+ENG Championship,Sat,2024-04-06,15:00,Sunderland,Bristol City,1.335,0.942,0.458,0.277,0.265,0.663,0.398,0.449
+ENG Championship,Sat,2024-04-06,15:00,Middlesbrough,Swansea City,1.961,1.284,0.532,0.218,0.249,0.834,0.629,0.621
+ENG Championship,Sat,2024-04-06,15:00,Stoke City,West Brom,0.935,1.255,0.277,0.286,0.437,0.642,0.375,0.434
+ENG Championship,Sat,2024-04-06,15:00,QPR,Sheffield Weds,1.224,0.796,0.463,0.296,0.242,0.599,0.329,0.387
+ENG Championship,Sat,2024-04-06,15:00,Cardiff City,Hull City,1.098,1.148,0.344,0.286,0.37,0.656,0.39,0.454
+ENG Championship,Sat,2024-04-06,15:00,Blackburn,Southampton,1.365,2.065,0.252,0.211,0.537,0.856,0.666,0.65
+ENG Championship,Sat,2024-04-06,15:00,Leicester City,Birmingham City,2.336,0.674,0.747,0.163,0.09,0.802,0.579,0.443
+ENG League 1,Mon,2024-04-01,,Portsmouth,Derby County,1.141,1.056,0.377,0.29,0.334,0.644,0.377,0.443
+ENG League 1,Mon,2024-04-01,,Carlisle United,Lincoln City,0.748,1.539,0.182,0.255,0.563,0.665,0.401,0.413
+ENG League 1,Mon,2024-04-01,,Cambridge Utd,Wigan Athletic,0.937,1.364,0.259,0.274,0.467,0.669,0.404,0.452
+ENG League 1,Mon,2024-04-01,,Cheltenham,Exeter City,1.105,1.006,0.377,0.297,0.326,0.622,0.353,0.423
+ENG League 1,Mon,2024-04-01,,Leyton Orient,P'borough Utd,1.18,1.383,0.321,0.263,0.416,0.725,0.472,0.518
+ENG League 1,Mon,2024-04-01,,Bolton,Reading,1.973,0.946,0.613,0.212,0.175,0.788,0.558,0.526
+ENG League 1,Mon,2024-04-01,,Bristol Rovers,Shrewsbury,1.468,1.003,0.48,0.262,0.259,0.706,0.449,0.487
+ENG League 1,Mon,2024-04-01,,Northampton,Port Vale,1.726,1.069,0.528,0.237,0.235,0.767,0.529,0.539
+ENG League 1,Mon,2024-04-01,,Oxford United,Fleetwood Town,1.569,1.0,0.506,0.252,0.242,0.726,0.474,0.5
+ENG League 1,Mon,2024-04-01,,Charlton Ath,Stevenage,1.291,1.299,0.367,0.263,0.37,0.73,0.479,0.526
+ENG League 1,Mon,2024-04-01,,Blackpool,Wycombe,1.478,0.974,0.489,0.261,0.25,0.702,0.444,0.48
+ENG League 1,Mon,2024-04-01,,Burton Albion,Barnsley,1.045,1.814,0.217,0.228,0.555,0.778,0.544,0.542
+ENG League 1,Sat,2024-04-06,,Northampton,Carlisle United,1.956,1.022,0.592,0.215,0.193,0.797,0.572,0.549
+ENG League 1,Sat,2024-04-06,,Blackpool,Cambridge Utd,1.762,0.665,0.639,0.225,0.136,0.697,0.437,0.402
+ENG League 1,Sat,2024-04-06,,P'borough Utd,Fleetwood Town,2.095,0.969,0.633,0.201,0.166,0.81,0.591,0.544
+ENG League 1,Sat,2024-04-06,,Portsmouth,Shrewsbury,1.697,0.621,0.636,0.232,0.133,0.672,0.409,0.377
+ENG League 1,Sat,2024-04-06,,Bristol Rovers,Bolton,1.02,1.708,0.226,0.238,0.536,0.756,0.513,0.523
+ENG League 1,Sat,2024-04-06,,Exeter City,Stevenage,0.948,1.22,0.287,0.289,0.424,0.637,0.369,0.431
+ENG League 1,Sat,2024-04-06,,Charlton Ath,Barnsley,1.555,1.822,0.332,0.224,0.444,0.85,0.656,0.661
+ENG League 1,Sat,2024-04-06,,Leyton Orient,Cheltenham,1.237,0.723,0.486,0.296,0.218,0.582,0.313,0.365
+ENG League 1,Sat,2024-04-06,,Wigan Athletic,Port Vale,1.819,0.881,0.596,0.225,0.179,0.751,0.506,0.49
+ENG League 1,Sat,2024-04-06,,Wycombe,Derby County,1.028,1.326,0.29,0.274,0.435,0.681,0.418,0.471
+ENG League 1,Sat,2024-04-06,,Reading,Lincoln City,1.086,1.27,0.317,0.277,0.406,0.681,0.419,0.476
+ENG League 1,Sat,2024-04-06,,Burton Albion,Oxford United,1.105,1.374,0.302,0.267,0.431,0.708,0.451,0.499
+ENG League 2,Mon,2024-04-01,13:00,Grimsby Town,Bradford City,1.129,1.272,0.32,0.291,0.389,0.699,0.431,0.495
+ENG League 2,Mon,2024-04-01,15:00,Walsall,Salford City,1.618,1.35,0.431,0.255,0.313,0.803,0.57,0.601
+ENG League 2,Mon,2024-04-01,15:00,Morecambe,Barrow,1.361,1.43,0.351,0.267,0.382,0.774,0.528,0.573
+ENG League 2,Mon,2024-04-01,15:00,Tranmere Rovers,Colchester Utd,1.451,0.96,0.478,0.28,0.242,0.701,0.433,0.48
+ENG League 2,Mon,2024-04-01,15:00,Notts County,MK Dons,2.077,2.094,0.392,0.21,0.398,0.924,0.786,0.771
+ENG League 2,Mon,2024-04-01,15:00,Stockport,AFC Wimbledon,1.676,0.741,0.591,0.252,0.156,0.702,0.434,0.432
+ENG League 2,Mon,2024-04-01,15:00,Mansfield Town,Acc'ton Stanley,2.232,0.91,0.668,0.197,0.135,0.826,0.608,0.539
+ENG League 2,Mon,2024-04-01,15:00,Crewe Alexandra,FG Rovers,1.962,0.838,0.631,0.222,0.147,0.775,0.531,0.494
+ENG League 2,Mon,2024-04-01,15:00,Sutton United,Swindon Town,1.376,1.566,0.329,0.258,0.413,0.799,0.564,0.598
+ENG League 2,Mon,2024-04-01,15:00,Harrogate,Gillingham,1.12,0.86,0.407,0.322,0.271,0.596,0.318,0.396
+ENG League 2,Mon,2024-04-01,15:00,Newport County,Crawley Town,1.629,1.164,0.475,0.259,0.266,0.774,0.529,0.56
+ENG League 2,Tue,2024-04-02,19:45,Doncaster,Wrexham,1.18,1.706,0.257,0.252,0.49,0.79,0.551,0.573
+ENG League 2,Sat,2024-04-06,15:00,Sutton United,Stockport,0.832,1.776,0.166,0.243,0.591,0.74,0.483,0.476
+ENG League 2,Sat,2024-04-06,15:00,Morecambe,Doncaster,1.847,1.402,0.475,0.238,0.287,0.841,0.63,0.641
+ENG League 2,Sat,2024-04-06,15:00,Tranmere Rovers,Walsall,1.306,1.062,0.414,0.291,0.295,0.692,0.422,0.485
+ENG League 2,Sat,2024-04-06,15:00,Mansfield Town,Crawley Town,2.202,0.92,0.66,0.201,0.139,0.824,0.604,0.54
+ENG League 2,Sat,2024-04-06,15:00,Barrow,Swindon Town,1.556,1.133,0.464,0.266,0.27,0.756,0.504,0.542
+ENG League 2,Sat,2024-04-06,15:00,Acc'ton Stanley,Crewe Alexandra,1.369,1.411,0.357,0.268,0.375,0.773,0.526,0.571
+ENG League 2,Sat,2024-04-06,15:00,Bradford City,Gillingham,1.115,0.69,0.449,0.332,0.219,0.546,0.271,0.343
+ENG League 2,Sat,2024-04-06,15:00,AFC Wimbledon,Salford City,1.508,1.229,0.43,0.267,0.303,0.765,0.515,0.558
+ENG League 2,Sat,2024-04-06,15:00,Notts County,Harrogate,2.26,1.63,0.517,0.21,0.273,0.904,0.745,0.725
+ENG League 2,Sat,2024-04-06,15:00,Colchester Utd,Wrexham,1.116,1.646,0.251,0.258,0.49,0.769,0.522,0.55
+ENG League 2,Sat,2024-04-06,15:00,FG Rovers,MK Dons,1.004,1.862,0.194,0.237,0.568,0.786,0.546,0.542
+ENG League 2,Sat,2024-04-06,15:00,Grimsby Town,Newport County,1.34,1.371,0.357,0.272,0.371,0.76,0.509,0.558
+ENG Conference,Mon,2024-04-01,15:00,FC Halifax Town,York City,1.322,0.786,0.488,0.294,0.218,0.627,0.353,0.404
+ENG Conference,Mon,2024-04-01,15:00,Chesterfield,Kidderminster,1.977,0.657,0.682,0.207,0.111,0.743,0.49,0.418
+ENG Conference,Mon,2024-04-01,15:00,Barnet,Oxford City,2.889,1.029,0.752,0.145,0.103,0.905,0.75,0.609
+ENG Conference,Mon,2024-04-01,15:00,Wealdstone,Solihull Moors,1.407,1.396,0.372,0.262,0.367,0.774,0.531,0.573
+ENG Conference,Mon,2024-04-01,15:00,Southend United,Boreham Wood,1.336,0.69,0.518,0.294,0.188,0.605,0.33,0.372
+ENG Conference,Mon,2024-04-01,15:00,Rochdale,Hartlepool Utd,2.143,1.34,0.555,0.213,0.232,0.866,0.676,0.655
+ENG Conference,Mon,2024-04-01,15:00,Dag & Red,Ebbsfleet Utd,1.838,1.199,0.519,0.236,0.244,0.81,0.585,0.591
+ENG Conference,Mon,2024-04-01,15:00,Altrincham,Oldham Athletic,1.779,1.366,0.469,0.239,0.292,0.826,0.609,0.623
+ENG Conference,Mon,2024-04-01,15:00,Eastleigh,Maidenhead Utd,1.619,1.145,0.479,0.255,0.265,0.767,0.522,0.551
+ENG Conference,Mon,2024-04-01,15:00,Fylde,Gateshead,1.78,1.987,0.349,0.219,0.431,0.893,0.726,0.72
+ENG Conference,Mon,2024-04-01,15:00,Aldershot Town,Dorking Wand.,2.279,1.408,0.568,0.204,0.228,0.886,0.712,0.681
+ENG Conference,Mon,2024-04-01,15:00,Bromley,Woking,1.288,0.844,0.464,0.297,0.239,0.633,0.359,0.418
+ENG Conference,Sat,2024-04-06,15:00,Hartlepool Utd,Aldershot Town,1.982,1.772,0.432,0.22,0.349,0.892,0.723,0.719
+ENG Conference,Sat,2024-04-06,15:00,Boreham Wood,Wealdstone,1.388,1.041,0.444,0.279,0.277,0.703,0.438,0.49
+ENG Conference,Sat,2024-04-06,15:00,Ebbsfleet Utd,Fylde,1.913,1.75,0.421,0.223,0.356,0.884,0.708,0.708
+ENG Conference,Sat,2024-04-06,15:00,Woking,Dag & Red,1.33,0.974,0.444,0.287,0.269,0.675,0.405,0.463
+ENG Conference,Sat,2024-04-06,15:00,Kidderminster,FC Halifax Town,0.688,0.882,0.262,0.364,0.374,0.47,0.209,0.296
+ENG Conference,Sat,2024-04-06,15:00,Oldham Athletic,Rochdale,1.578,1.25,0.446,0.256,0.298,0.778,0.537,0.571
+ENG Conference,Sat,2024-04-06,15:00,Oxford City,Bromley,1.037,1.982,0.189,0.222,0.589,0.807,0.581,0.56
+ENG Conference,Sat,2024-04-06,15:00,York City,Eastleigh,1.526,1.338,0.414,0.257,0.329,0.784,0.546,0.582
+ENG Conference,Sat,2024-04-06,15:00,Dorking Wand.,Altrincham,1.581,2.047,0.297,0.219,0.484,0.88,0.702,0.695
+ENG Conference,Sat,2024-04-06,15:00,Gateshead,Chesterfield,1.726,1.801,0.37,0.229,0.401,0.87,0.684,0.69
+ENG Conference,Sat,2024-04-06,15:00,Solihull Moors,Southend United,1.07,1.17,0.326,0.298,0.376,0.66,0.388,0.458
+ENG Conference,Sat,2024-04-06,15:00,Maidenhead Utd,Barnet,1.17,1.571,0.279,0.259,0.462,0.763,0.516,0.551
+SCO Premier League,Sat,2024-03-30,15:00,Hearts,Kilmarnock,1.437,0.851,0.552,0.182,0.266,0.623,0.401,0.393
+SCO Premier League,Sat,2024-03-30,15:00,Motherwell,St Mirren,1.938,1.483,0.517,0.154,0.329,0.823,0.664,0.629
+SCO Premier League,Sat,2024-03-30,15:00,Livingston,Celtic,0.457,2.68,0.061,0.078,0.861,0.802,0.607,0.323
+SCO Premier League,Sat,2024-03-30,15:00,Rangers,Hibernian,2.512,0.773,0.778,0.103,0.119,0.814,0.637,0.469
+SCO Premier League,Sat,2024-03-30,15:00,St Johnstone,Dundee,1.085,1.329,0.35,0.183,0.467,0.649,0.434,0.441
+SCO Premier League,Sat,2024-03-30,15:00,Aberdeen,Ross County,1.872,1.089,0.594,0.151,0.256,0.758,0.568,0.524
+SCO Premier League,Sat,2024-04-06,15:00,St Mirren,Hearts,1.293,1.269,0.417,0.177,0.406,0.681,0.472,0.477
+SCO Premier League,Sat,2024-04-06,15:00,Kilmarnock,Ross County,1.589,0.901,0.577,0.168,0.255,0.669,0.454,0.431
+SCO Premier League,Sat,2024-04-06,15:00,Hibernian,St Johnstone,1.592,0.727,0.621,0.17,0.209,0.634,0.409,0.371
+SCO Premier League,Sat,2024-04-06,15:00,Livingston,Aberdeen,0.884,1.344,0.291,0.189,0.519,0.607,0.385,0.389
+SCO Premier League,Sat,2024-04-06,15:00,Rangers,Celtic,1.31,1.363,0.401,0.173,0.426,0.703,0.5,0.5
+SCO Premier League,Sat,2024-04-06,15:00,Dundee,Motherwell,2.231,1.911,0.484,0.153,0.363,0.895,0.782,0.737
+SCO Division 1,Sat,2024-03-30,15:00,Dundee United,Raith Rovers,1.874,0.719,0.636,0.24,0.124,0.744,0.48,0.446
+SCO Division 1,Sat,2024-03-30,15:00,Arbroath FC,Dunfermline,0.921,1.435,0.226,0.299,0.475,0.697,0.419,0.474
+SCO Division 1,Sat,2024-03-30,15:00,Partick Thistle,Inverness CT,1.678,1.293,0.451,0.267,0.282,0.81,0.57,0.604
+SCO Division 1,Sat,2024-03-30,15:00,Ayr United,Airdrieonians,1.266,1.303,0.343,0.297,0.36,0.742,0.474,0.539
+SCO Division 1,Sat,2024-03-30,15:00,Gr'nock Morton,Queen's Park FC,1.55,1.265,0.425,0.278,0.297,0.786,0.534,0.58
+SCO Division 1,Sat,2024-04-06,15:00,Dunfermline,Partick Thistle,1.374,1.592,0.317,0.271,0.413,0.81,0.569,0.609
+SCO Division 1,Sat,2024-04-06,15:00,Airdrieonians,Gr'nock Morton,1.095,0.99,0.36,0.333,0.306,0.633,0.346,0.435
+SCO Division 1,Sat,2024-04-06,15:00,Raith Rovers,Ayr United,1.699,1.363,0.441,0.263,0.296,0.823,0.591,0.621
+SCO Division 1,Sat,2024-04-06,15:00,Inverness CT,Arbroath FC,1.659,0.79,0.567,0.27,0.163,0.716,0.443,0.456
+SCO Division 1,Sat,2024-04-06,15:00,Queen's Park FC,Dundee United,0.868,2.001,0.143,0.232,0.626,0.792,0.547,0.514
+FRA Ligue 1,Sun,2024-03-31,,Lille,Lens,1.099,1.097,0.339,0.323,0.338,0.66,0.376,0.46
+FRA Ligue 1,Sun,2024-03-31,,Marseille,Paris S-G,1.333,1.734,0.283,0.26,0.457,0.823,0.592,0.619
+FRA Ligue 1,Sun,2024-03-31,,Lorient,Brest,1.144,1.453,0.283,0.289,0.428,0.746,0.481,0.536
+FRA Ligue 1,Sun,2024-03-31,,Lyon,Reims,1.455,1.157,0.425,0.288,0.287,0.749,0.485,0.54
+FRA Ligue 1,Sun,2024-03-31,,Strasbourg,Rennes,1.107,1.703,0.234,0.266,0.5,0.784,0.533,0.561
+FRA Ligue 1,Sun,2024-03-31,,Le Havre,Montpellier,1.326,1.292,0.362,0.292,0.346,0.751,0.486,0.547
+FRA Ligue 1,Sun,2024-03-31,,Clermont Foot,Toulouse,1.143,1.257,0.319,0.306,0.375,0.707,0.43,0.502
+FRA Ligue 1,Sun,2024-03-31,,Nice,Nantes,1.354,0.56,0.551,0.308,0.141,0.583,0.3,0.331
+FRA Ligue 1,Sun,2024-03-31,,Metz,Monaco,1.041,1.772,0.209,0.259,0.532,0.784,0.534,0.55
+FRA Ligue 2,Sat,2024-03-30,,Valenciennes,Saint-Étienne,0.87,1.462,0.223,0.268,0.509,0.677,0.413,0.447
+FRA Ligue 2,Sat,2024-03-30,,Dunkerque,Annecy,1.244,1.147,0.384,0.279,0.337,0.691,0.428,0.487
+FRA Ligue 2,Sat,2024-03-30,,Troyes,Rodez Aveyron,1.346,1.249,0.39,0.266,0.344,0.733,0.481,0.529
+FRA Ligue 2,Sat,2024-03-30,,Quevilly-Rouen,Caen,1.371,1.344,0.377,0.259,0.364,0.755,0.51,0.552
+FRA Ligue 2,Sat,2024-03-30,,Bordeaux,Paris FC,1.214,0.897,0.433,0.296,0.271,0.624,0.353,0.417
+FRA Ligue 2,Sat,2024-03-30,,US Concarneau,Angers,1.054,1.532,0.26,0.258,0.482,0.731,0.478,0.512
+FRA Ligue 2,Sat,2024-03-30,,Amiens,Pau FC,1.236,1.095,0.393,0.283,0.324,0.677,0.412,0.473
+FRA Ligue 2,Sat,2024-03-30,,Ajaccio,Auxerre,0.832,1.558,0.199,0.257,0.544,0.69,0.428,0.447
+FRA Ligue 2,Sat,2024-03-30,,Grenoble,Guingamp,1.071,0.997,0.367,0.304,0.329,0.613,0.342,0.416
+FRA Ligue 2,Sat,2024-03-30,,Stade Laval,Bastia,1.308,1.145,0.402,0.274,0.324,0.704,0.444,0.498
+FRA Ligue 2,Sat,2024-04-06,,Caen,Bordeaux,1.25,1.138,0.388,0.279,0.333,0.69,0.427,0.486
+FRA Ligue 2,Sat,2024-04-06,,Annecy,Valenciennes,1.321,0.883,0.467,0.284,0.249,0.647,0.378,0.431
+FRA Ligue 2,Sat,2024-04-06,,Paris FC,Grenoble,1.075,0.852,0.402,0.315,0.284,0.575,0.304,0.379
+FRA Ligue 2,Sat,2024-04-06,,Rodez Aveyron,Quevilly-Rouen,1.543,1.228,0.445,0.253,0.302,0.765,0.523,0.557
+FRA Ligue 2,Sat,2024-04-06,,Auxerre,Troyes,2.027,0.839,0.65,0.205,0.145,0.781,0.546,0.494
+FRA Ligue 2,Sat,2024-04-06,,Angers,Stade Laval,1.641,1.003,0.522,0.248,0.23,0.742,0.492,0.511
+FRA Ligue 2,Sat,2024-04-06,,Bastia,Dunkerque,1.495,0.933,0.502,0.263,0.235,0.699,0.438,0.472
+FRA Ligue 2,Sat,2024-04-06,,Saint-Étienne,US Concarneau,1.858,0.883,0.603,0.224,0.173,0.76,0.516,0.496
+FRA Ligue 2,Sat,2024-04-06,,Guingamp,Amiens,1.349,0.834,0.487,0.282,0.231,0.642,0.373,0.42
+FRA Ligue 2,Sat,2024-04-06,,Pau FC,Ajaccio,1.323,1.013,0.436,0.279,0.285,0.678,0.414,0.468
+DEU Bundesliga 1,Sat,2024-03-30,,Augsburg,Köln,1.731,1.013,0.529,0.264,0.207,0.773,0.517,0.538
+DEU Bundesliga 1,Sat,2024-03-30,,Werder Bremen,Wolfsburg,1.589,1.305,0.427,0.273,0.3,0.798,0.553,0.594
+DEU Bundesliga 1,Sat,2024-03-30,,Bayern Munich,Dortmund,2.612,1.466,0.613,0.193,0.193,0.922,0.773,0.72
+DEU Bundesliga 1,Sat,2024-03-30,,Eint Frankfurt,Union Berlin,1.576,0.922,0.512,0.282,0.206,0.727,0.456,0.492
+DEU Bundesliga 1,Sat,2024-03-30,,Bochum,Darmstadt 98,2.12,1.093,0.598,0.226,0.176,0.842,0.623,0.596
+DEU Bundesliga 1,Sat,2024-03-30,,RB Leipzig,Mainz 05,2.474,0.801,0.731,0.177,0.092,0.847,0.635,0.513
+DEU Bundesliga 1,Sat,2024-03-30,,Stuttgart,Heidenheim,2.138,1.068,0.607,0.224,0.169,0.841,0.621,0.59
+DEU Bundesliga 1,Sat,2024-03-30,,Leverkusen,Hoffenheim,2.691,0.866,0.751,0.161,0.088,0.878,0.69,0.548
+DEU Bundesliga 1,Sat,2024-03-30,,M'Gladbach,Freiburg,1.815,1.377,0.466,0.254,0.28,0.84,0.618,0.638
+DEU Bundesliga 1,Sat,2024-04-06,,Freiburg,RB Leipzig,1.283,1.668,0.281,0.267,0.451,0.807,0.566,0.6
+DEU Bundesliga 1,Sat,2024-04-06,,Wolfsburg,M'Gladbach,1.87,1.381,0.478,0.249,0.273,0.847,0.631,0.645
+DEU Bundesliga 1,Sat,2024-04-06,,Hoffenheim,Augsburg,1.905,1.396,0.483,0.246,0.271,0.853,0.641,0.652
+DEU Bundesliga 1,Sat,2024-04-06,,Dortmund,Stuttgart,2.381,1.254,0.614,0.206,0.179,0.887,0.703,0.658
+DEU Bundesliga 1,Sat,2024-04-06,,Union Berlin,Leverkusen,0.903,1.455,0.219,0.296,0.485,0.697,0.419,0.471
+DEU Bundesliga 1,Sat,2024-04-06,,Eint Frankfurt,Werder Bremen,2.004,1.084,0.575,0.237,0.188,0.825,0.596,0.584
+DEU Bundesliga 1,Sat,2024-04-06,,Köln,Bochum,1.622,1.081,0.486,0.275,0.239,0.766,0.507,0.544
+DEU Bundesliga 1,Sat,2024-04-06,,Mainz 05,Darmstadt 98,2.121,0.906,0.642,0.219,0.139,0.816,0.583,0.536
+DEU Bundesliga 1,Sat,2024-04-06,,Heidenheim,Bayern Munich,1.21,2.42,0.167,0.202,0.631,0.887,0.703,0.649
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Hertha BSC,Nürnberg,2.14,1.111,0.611,0.197,0.191,0.833,0.631,0.589
+DEU Bundesliga 2,Sun,2024-03-31,13:30,St. Pauli,Paderborn 07,1.885,1.082,0.564,0.218,0.218,0.793,0.569,0.558
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Magdeburg,Hannover 96,1.633,1.413,0.431,0.233,0.335,0.805,0.587,0.606
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Kaiserslautern,Düsseldorf,1.411,1.998,0.274,0.212,0.515,0.852,0.662,0.651
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Greuther Fürth,Hamburger SV,1.463,1.71,0.333,0.228,0.439,0.822,0.614,0.627
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Holstein Kiel,Hansa Rostock,1.956,0.841,0.638,0.206,0.157,0.766,0.53,0.486
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Wehen,Osnabrück,1.614,0.68,0.602,0.24,0.158,0.665,0.402,0.392
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Schalke 04,Karlsruher,1.886,2.085,0.36,0.203,0.437,0.904,0.758,0.741
+DEU Bundesliga 2,Sun,2024-03-31,13:30,Braunschweig,Elversberg,1.354,1.393,0.366,0.249,0.385,0.756,0.518,0.554
+ITA Serie A,Sat,2024-03-30,,Lazio,Juventus,1.003,0.976,0.348,0.319,0.334,0.592,0.318,0.399
+ITA Serie A,Sat,2024-03-30,,Napoli,Atalanta,1.799,1.19,0.513,0.238,0.249,0.802,0.574,0.584
+ITA Serie A,Sat,2024-03-30,,Inter,Empoli,2.51,0.479,0.815,0.135,0.05,0.801,0.574,0.351
+ITA Serie A,Sat,2024-03-30,,Genoa,Frosinone,1.931,1.092,0.566,0.226,0.208,0.807,0.582,0.571
+ITA Serie A,Sat,2024-03-30,,Torino,Monza,1.139,0.797,0.432,0.316,0.252,0.58,0.306,0.377
+ITA Serie A,Sat,2024-03-30,,Fiorentina,Milan,1.394,1.381,0.372,0.261,0.366,0.768,0.525,0.567
+ITA Serie A,Sat,2024-03-30,,Bologna,Salernitana,2.24,0.78,0.703,0.184,0.113,0.806,0.581,0.487
+ITA Serie A,Sat,2024-03-30,,Lecce,Roma,0.855,1.531,0.206,0.265,0.529,0.692,0.427,0.454
+ITA Serie A,Sat,2024-03-30,,Sassuolo,Udinese,1.46,1.375,0.39,0.258,0.352,0.778,0.539,0.577
+ITA Serie A,Sat,2024-03-30,,Cagliari,Hellas Verona,1.213,1.009,0.403,0.295,0.301,0.655,0.383,0.451
+ITA Serie B,Mon,2024-04-01,12:30,Modena,Bari,1.186,1.231,0.339,0.299,0.361,0.707,0.435,0.504
+ITA Serie B,Mon,2024-04-01,15:00,Como,Südtirol,1.302,0.999,0.423,0.303,0.274,0.681,0.404,0.472
+ITA Serie B,Mon,2024-04-01,15:00,Pisa,Palermo,1.462,1.372,0.384,0.273,0.343,0.785,0.538,0.584
+ITA Serie B,Mon,2024-04-01,15:00,Venezia,Reggiana,1.616,0.937,0.522,0.27,0.208,0.734,0.47,0.498
+ITA Serie B,Mon,2024-04-01,15:00,Calcio Lecco 1912,Cittadella,0.997,1.455,0.247,0.287,0.465,0.714,0.444,0.495
+ITA Serie B,Mon,2024-04-01,15:00,Spezia,Ascoli,0.979,1.083,0.31,0.327,0.363,0.623,0.34,0.425
+ITA Serie B,Mon,2024-04-01,15:00,Cosenza,Brescia,1.018,0.951,0.35,0.336,0.314,0.598,0.315,0.404
+ITA Serie B,Mon,2024-04-01,15:00,Parma,Catanzaro,1.923,1.141,0.546,0.24,0.214,0.82,0.591,0.59
+ITA Serie B,Mon,2024-04-01,18:00,Cremonese,FeralpiSalò,1.788,0.682,0.63,0.243,0.127,0.716,0.448,0.421
+ITA Serie B,Mon,2024-04-01,20:30,Sampdoria,Ternana,1.629,1.22,0.459,0.266,0.276,0.788,0.542,0.577
+ITA Serie B,Fri,2024-04-05,20:30,Bari,Cremonese,0.872,1.042,0.285,0.34,0.375,0.582,0.3,0.389
+ITA Serie B,Sat,2024-04-06,14:00,Ternana,Modena,1.294,1.251,0.365,0.291,0.345,0.734,0.468,0.53
+ITA Serie B,Sat,2024-04-06,14:00,Südtirol,Parma,1.033,1.294,0.285,0.303,0.413,0.687,0.411,0.479
+ITA Serie B,Sat,2024-04-06,14:00,Brescia,Pisa,1.1,1.148,0.332,0.312,0.356,0.669,0.39,0.468
+ITA Serie B,Sat,2024-04-06,14:00,FeralpiSalò,Cosenza,1.163,1.151,0.349,0.307,0.344,0.685,0.408,0.482
+ITA Serie B,Sat,2024-04-06,14:00,Spezia,Calcio Lecco 1912,1.549,0.989,0.492,0.277,0.23,0.732,0.466,0.506
+ITA Serie B,Sat,2024-04-06,16:15,Catanzaro,Como,1.504,1.42,0.385,0.268,0.348,0.8,0.56,0.6
+ITA Serie B,Sat,2024-04-06,16:15,Reggiana,Cittadella,1.084,0.861,0.391,0.336,0.273,0.591,0.308,0.394
+ITA Serie B,Sat,2024-04-06,16:15,Palermo,Sampdoria,2.003,1.38,0.511,0.234,0.255,0.86,0.657,0.656
+ESP La Liga,Sun,2024-03-31,,Barcelona,Las Palmas,1.865,0.596,0.677,0.214,0.109,0.707,0.446,0.381
+ESP La Liga,Sun,2024-03-31,,Getafe,Sevilla,1.404,1.066,0.444,0.273,0.283,0.709,0.448,0.497
+ESP La Liga,Sun,2024-03-31,,Almería,Osasuna,1.321,1.274,0.376,0.27,0.354,0.734,0.48,0.531
+ESP La Liga,Sun,2024-03-31,,Girona,Betis,1.747,1.062,0.532,0.241,0.227,0.773,0.533,0.543
+ESP La Liga,Sun,2024-03-31,,Alavés,Real Sociedad,0.8,1.077,0.265,0.322,0.413,0.562,0.29,0.366
+ESP La Liga,Sun,2024-03-31,,Cádiz,Granada,1.344,1.002,0.443,0.281,0.276,0.682,0.416,0.471
+ESP La Liga,Sun,2024-03-31,,Celta Vigo,Rayo Vallecano,1.373,0.963,0.46,0.279,0.261,0.68,0.414,0.465
+ESP La Liga,Sun,2024-03-31,,Real Madrid,Athletic Club,1.866,0.831,0.616,0.225,0.159,0.753,0.506,0.479
+ESP La Liga,Sun,2024-03-31,,Valencia,Mallorca,1.138,0.7,0.458,0.319,0.223,0.551,0.28,0.345
+ESP La Liga,Sun,2024-03-31,,Villarreal,Atlético Madrid,1.537,1.814,0.327,0.23,0.443,0.85,0.651,0.659
+ESP La Liga Segunda,Sun,2024-03-31,,Valladolid,Levante,1.204,0.82,0.439,0.321,0.24,0.611,0.33,0.403
+ESP La Liga Segunda,Sun,2024-03-31,,FC Andorra,CD Mirandés,1.393,0.936,0.464,0.294,0.242,0.687,0.412,0.468
+ESP La Liga Segunda,Sun,2024-03-31,,Burgos,Espanyol,1.262,1.211,0.365,0.294,0.341,0.718,0.449,0.514
+ESP La Liga Segunda,Sun,2024-03-31,,Eibar,Eldense,1.86,0.914,0.587,0.241,0.172,0.773,0.524,0.515
+ESP La Liga Segunda,Sun,2024-03-31,,Zaragoza,Tenerife,0.904,0.644,0.387,0.377,0.236,0.469,0.203,0.293
+ESP La Liga Segunda,Sun,2024-03-31,,Alcorcón,Amorebieta,1.003,0.772,0.388,0.351,0.261,0.541,0.263,0.352
+ESP La Liga Segunda,Sun,2024-03-31,,Racing Ferrol,Elche,1.162,0.919,0.402,0.321,0.277,0.627,0.345,0.424
+ESP La Liga Segunda,Sun,2024-03-31,,Albacete,Huesca,1.103,0.853,0.4,0.332,0.268,0.593,0.312,0.395
+ESP La Liga Segunda,Sun,2024-03-31,,Leganés,Cartagena,1.601,0.65,0.595,0.266,0.14,0.667,0.391,0.391
+ESP La Liga Segunda,Sun,2024-03-31,,Oviedo,Villarreal B,1.608,0.676,0.589,0.266,0.145,0.675,0.4,0.402
+ESP La Liga Segunda,Sun,2024-03-31,,Sporting Gijón,Racing Sant,1.426,1.024,0.452,0.288,0.26,0.713,0.443,0.498
+TUR Super Lig,Wed,2024-04-03,,Gaziantep FK,Alanyaspor,1.29,1.42,0.332,0.276,0.392,0.763,0.509,0.559
+TUR Super Lig,Wed,2024-04-03,,Antalyaspor,Ankaragücü,1.297,0.934,0.438,0.303,0.258,0.663,0.385,0.451
+TUR Super Lig,Wed,2024-04-03,,Konyaspor,Trabzonspor,1.31,1.366,0.348,0.279,0.373,0.757,0.5,0.554
+TUR Super Lig,Wed,2024-04-03,,Başakşehir,Beşiktaş,1.206,1.153,0.363,0.3,0.337,0.693,0.42,0.49
+TUR Super Lig,Wed,2024-04-03,,Fenerbahçe,Adana Demirspor,2.545,1.129,0.674,0.182,0.143,0.887,0.71,0.629
+TUR Super Lig,Wed,2024-04-03,,İstanbulspor,Rizespor,1.248,1.248,0.355,0.291,0.355,0.722,0.455,0.519
+TUR Super Lig,Wed,2024-04-03,,Kayserispor,Kasımpaşa,1.865,1.534,0.449,0.239,0.312,0.861,0.66,0.671
+TUR Super Lig,Wed,2024-04-03,,Galatasaray,Hatayspor,3.145,0.397,0.895,0.084,0.021,0.871,0.687,0.316
+TUR Super Lig,Wed,2024-04-03,,Samsunspor,Pendikspor,1.836,0.956,0.572,0.244,0.185,0.776,0.528,0.526
+TUR Super Lig,Wed,2024-04-03,,Sivasspor,Fatih Karagümrük,1.459,1.414,0.376,0.268,0.356,0.79,0.548,0.59
+NLD Eredivisie,Sat,2024-03-30,16:30,NEC Nijmegen,PSV Eindhoven,0.949,2.43,0.105,0.218,0.676,0.874,0.656,0.582
+NLD Eredivisie,Sat,2024-03-30,18:45,Sparta R'dam,Fortuna Sittard,1.967,0.861,0.603,0.27,0.127,0.803,0.537,0.526
+NLD Eredivisie,Sat,2024-03-30,20:00,Go Ahead Eag,Excelsior,2.121,1.083,0.583,0.259,0.158,0.857,0.621,0.61
+NLD Eredivisie,Sat,2024-03-30,20:00,RKC Waalwijk,Heerenveen,1.42,1.413,0.341,0.321,0.338,0.81,0.538,0.609
+NLD Eredivisie,Sat,2024-03-30,21:00,AZ Alkmaar,Vitesse,2.602,0.616,0.78,0.173,0.047,0.85,0.624,0.445
+NLD Eredivisie,Sun,2024-03-31,12:15,Zwolle,Ajax,1.417,2.477,0.187,0.228,0.586,0.922,0.746,0.715
+NLD Eredivisie,Sun,2024-03-31,14:30,Twente,Heracles Almelo,2.771,0.628,0.801,0.157,0.042,0.87,0.66,0.454
+NLD Eredivisie,Sun,2024-03-31,14:30,Feyenoord,Utrecht,2.375,0.671,0.731,0.205,0.064,0.83,0.587,0.466
+NLD Eredivisie,Sun,2024-03-31,16:45,Almere City,Volendam,1.69,1.056,0.488,0.309,0.203,0.794,0.518,0.566
+NLD Eredivisie,Tue,2024-04-02,18:45,Vitesse,Sparta R'dam,0.951,1.729,0.173,0.304,0.523,0.781,0.501,0.538
+NLD Eredivisie,Tue,2024-04-02,20:00,Excelsior,PSV Eindhoven,0.731,3.618,0.028,0.098,0.874,0.941,0.809,0.515
+NLD Eredivisie,Tue,2024-04-02,21:00,Fortuna Sittard,NEC Nijmegen,1.312,1.548,0.289,0.317,0.394,0.814,0.545,0.61
+NLD Eredivisie,Wed,2024-04-03,18:45,Heracles Almelo,AZ Alkmaar,0.907,2.27,0.11,0.234,0.655,0.851,0.615,0.56
+NLD Eredivisie,Wed,2024-04-03,20:00,Utrecht,Zwolle,1.742,0.946,0.528,0.302,0.17,0.782,0.503,0.538
+NLD Eredivisie,Wed,2024-04-03,21:00,Heerenveen,Twente,0.943,1.808,0.161,0.294,0.545,0.793,0.519,0.543
+NLD Eredivisie,Thu,2024-04-04,18:45,Volendam,Feyenoord,0.746,3.163,0.041,0.132,0.827,0.916,0.748,0.518
+NLD Eredivisie,Thu,2024-04-04,20:00,RKC Waalwijk,Almere City,1.297,1.01,0.392,0.357,0.251,0.71,0.406,0.501
+NLD Eredivisie,Thu,2024-04-04,21:00,Ajax,Go Ahead Eag,2.682,1.181,0.672,0.202,0.125,0.918,0.741,0.665
+NLD Eredivisie,Sat,2024-04-06,16:30,Sparta R'dam,Heracles Almelo,2.436,0.868,0.696,0.213,0.091,0.865,0.641,0.552
+NLD Eredivisie,Sat,2024-04-06,18:45,PSV Eindhoven,AZ Alkmaar,2.119,0.885,0.63,0.252,0.118,0.829,0.578,0.544
+NLD Eredivisie,Sat,2024-04-06,20:00,Zwolle,Excelsior,2.002,1.271,0.515,0.273,0.212,0.867,0.635,0.651
+NLD Eredivisie,Sat,2024-04-06,21:00,Twente,Fortuna Sittard,2.238,0.623,0.719,0.217,0.064,0.803,0.545,0.438
+PRT Liga 1,Sat,2024-03-30,,Vitória,Moreirense,1.381,0.809,0.546,0.192,0.262,0.601,0.375,0.373
+PRT Liga 1,Sat,2024-03-30,,Arouca,Farense,2.275,1.291,0.624,0.14,0.237,0.843,0.691,0.622
+PRT Liga 1,Sat,2024-03-30,,Gil Vicente FC,Famalicão,1.124,0.909,0.45,0.212,0.338,0.557,0.332,0.357
+PRT Liga 1,Sat,2024-03-30,,Boavista,Rio Ave,1.407,1.051,0.494,0.181,0.324,0.661,0.445,0.448
+PRT Liga 1,Sat,2024-03-30,,Benfica,Chaves,2.929,0.447,0.886,0.065,0.049,0.835,0.655,0.326
+PRT Liga 1,Sat,2024-03-30,,Estoril,Porto,0.86,2.177,0.166,0.129,0.705,0.776,0.585,0.481
+PRT Liga 1,Sat,2024-03-30,,Portimonense,Braga,1.084,2.256,0.2,0.133,0.667,0.817,0.649,0.563
+PRT Liga 1,Sat,2024-03-30,,Estrela,Sporting CP,0.861,2.372,0.146,0.117,0.737,0.806,0.627,0.496
+PRT Liga 1,Sat,2024-03-30,,Vizela,Casa Pia,1.282,0.942,0.487,0.195,0.318,0.607,0.384,0.396
